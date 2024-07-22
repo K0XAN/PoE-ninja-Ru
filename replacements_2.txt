@@ -1,0 +1,421 @@
+Cave Beast->Пещерный зверь
+Enraptured Beast->Завороженный зверь
+Enraptured Beast->Завороженный зверь
+Primal Beast->Доисторический зверь
+The Alpha Beast->Первородный зверь
+Bone Cruncher->Костолом
+Hairy Bonecruncher->Лохматый костолом
+Shaggy Monstrosity->Косматая образина
+Thicket Hulk->Чащобная громадина
+Skeletal Beast->Костяк зверя
+Corrupted Beast->Искажённый зверь
+Armour Cruncher->Крушитель
+Forest Beast->Лесной зверь
+Goatman->Козерог
+Goatman Stomper->Козерог-топтун
+Bearded Devil->Бородатый дьявол
+Alpine Devil->Горный дьявол
+Bearded Devil->Бородатый дьявол
+Goatman Shaman->Шаман козерогов
+Goatman Fire-raiser->Козерог-заклинатель огня
+Bearded Shaman->Бородатый шаман
+Bearded Skycaller->Бородатый призыватель небес
+Alpine Shaman->Горный шаман
+Hill Devil->Дьявол холма
+Colossus Crusher->Гигантский крушитель
+Arctic Wolf->Северный волк
+Snow Wolf->Снежный волк
+Freezing Wolf->Морозный волк
+Dire Wolf->Лютоволк
+Flame Hellion->Огненный адский лев
+Dune Hellion->Барханный адский лев
+Ruins Hellion->Адский лев из развалин
+Mountain Hellion->Горный адский лев
+Mountain Hellion Alpha->Горный адский лев-альфа
+Enslaved Hellion->Порабощенный адский лев
+Enslaved Hellion->Порабощенный адский лев
+Shackled Hellion->Пленённый адский лев
+Blood Ape->Кровавый примат
+Dread Primate->Жуткий примат
+Dread Primate->Жуткий примат
+Stygian Ape->Адский примат
+Infested Ape->Заражённый примат
+Infested Ape->Заражённый примат
+Blood Chieftain->Вожак кровавых обезьян
+Carnage Chieftain->Буйствующий вожак обезьян
+Stygian Silverback->Вожак адских обезьян
+Aboriginal Chieftain->Вожак доисторических обезьян
+Host Chieftain->Вожак-переносчик
+Host Chieftain->Вожак-переносчик
+Carnage Ape->Примат убийца
+Barrow Ape->Холмовой примат
+Primitive Ape->Примитивный примат
+Rhoa Mare->Самка роа
+Primordial Rhoa->Доисторический роа
+Tercel Rhoa->Роа-самец
+Murk Runner->Тёмный бегун
+Bone Rhoa->Костяной роа
+Corrupted Rhoa->Искажённый роа
+Bone Scavenger->Костяной роа-стервятник
+Zombie Rhoa->Зомби-роа
+Infested Rhoa->Заражённый роа
+Gravel Eater->Галечник
+Fossil Eater->Ископаемый плевун
+Scrabbling Spitter->Плевун-копатель
+Granite Eater->Гранитный плевун
+Rock Spitter->Каменный плевун
+Crustacean Sniper->Рак-стрелок
+Crustacean Pelter->Рак-метатель
+Infested Sniper->Заражённый стрелок
+Obsidian Eater->Обсидиановый плевун
+Crustacean Sniper->Рак-стрелок
+Merveil's Favoured->Приближенный Мервейл
+Merveil's Daughter->Дочь Мервейл
+Merveil's Attendant->Свита Мервейл
+Merveil's Chosen->Избранник Мервейл
+Merveil's Retainer->Слуга Мервейл
+Singing Siren->Поющая сирена
+Merveil's Blessed->Блаженная Мервейл
+Fated Siren->Сирена из пророчества
+Night Adder->Ночной уж
+Host Adder->Уж-переносчик
+Host Adder->Уж-переносчик
+Bramble Cobra->Игольчатая кобра
+Host Cobra->Змей-переносчик
+Host Cobra->Змей-переносчик
+Acid Slitherer->Кислотный ползун
+Glade Mamba->Лесной аспид
+Cursed Spawn->Проклятый ужас
+Fathom Screamer->Призрачный крикун
+Siren's Spawn->Выродок сирены
+Slimy Bloodsucker->Мерзкий кровосос
+Foreseen Spawn->Порождение пророчества
+Slimy Nemesis->Мерзкий мститель
+Venomous Spawn->Ядовитый выродок
+Lurking Venom->Таящийся отравитель
+Vaal Recluse->Отшельник ваал
+Noxious Tarantula->Ядовитый птицеед
+Deadly Tarantula->Смертоносный птицеед
+Leaping Spider->Прыгающий паук
+Arakaali's Daughter->Дочь Аракаали
+Webbed Spider->Затянутый паутиной паук
+Virulent Spider->Ядовитый паук
+Ink Spinner->Чернопряд
+Corrupted Arach->Заражённый арахнид
+Crypt Weaver->Подземельный ткач
+Mutant Arach->Изуродованный арахнид
+Crypt Ambusher->Могильный охотник
+Corrupted Spitter->Ядовитый плевун
+Cave Skitterer->Пещерный легколап
+Spindle Spider->Веретянщик
+Hatchling->Малёк
+Brooding Tarantula->Мрачный птицеед
+Buried Tarantula->Зарывающийся птицеед
+Maligaro's Inspiration->Вдохновение Малигаро
+Enraptured Arachnid->Завороженный арахнид
+Enraptured Arachnid->Завороженный арахнид
+Fetid Maw->Зловонная пасть
+Filth Maw->Мерзкая пасть
+Bestial Maw->Звериная пасть
+Infested Maw->Заражённая пасть
+Infested Maw->Заражённая пасть
+Plumed Chimeral->Пернатый ящер
+Feral Chimeral->Одичавший ящер
+Chrome-touched Chimeral->Зеркальный ящер
+Chrome-infused Chimeral->Хромовый ящер
+Wild Chimeral->Дикий ящер
+Chimeric Croaker->Химеровый квакун
+Vaulting Croaker->Скачущий квакун
+Chrome-touched Croaker->Зеркальный квакун
+Chrome-infused Croaker->Хромовый квакун
+Carrion Queen->Матка трупоедов
+Carrion Swarmer->Мерзкий жук
+Carrion Burrower->Мерзкий копатель
+Scum Crawler->Сточник
+Nightmarish Carrion->Кошмарная гниль
+Nightmarish Crawler->Кошмарный ползун
+Avian Retch->Пернатый рыгатель
+Gluttonous Gull->Ненасытный падальщик
+Sewage Crawler->Нечистотник
+Toxic Crawler->Ядовитый нечистотник
+Spine Serpent->Шипастый змей
+Infested Serpent->Заражённый змей
+Barb Serpent->Колючюй змей
+Sand Serpent->Песчаный змей
+Porcupine Goliath->Дикобразный исполин
+Chrome-touched Goliath->Зеркальный исполин
+Chrome-infused Goliath->Хромовый исполин
+Devourer->Пожиратель
+Ancient Devourer->Старейший пожиратель
+Soulless Watcher->Безучастный смотритель
+Drifting Eye->Плывущий глаз
+Cavern Drifter->Пещерный плывун
+Sewer Drifter->Сточный плывун
+Infected Watcher->Заражённый смотритель
+Plummeting Ursa->Падучий медведь
+Plummeting Ursa->Падучий медведь
+Tunnelfiend->Верхолаз
+Tunnelfiend->Верхолаз
+Infested Tunnelfiend->Заражённый верхолаз
+Infested Tunnelfiend->Заражённый верхолаз
+Woods Ursa->Лесной медведь
+Woods Ursa->Лесной медведь
+Infested Ursa->Заражённый медведь
+Infested Ursa->Заражённый медведь
+Sickly Spinner->Больной паутинник
+Infected Spiker->Заражённый иглогрив
+Infected Beast->Заражённый зверь
+Rabid Broodqueen->Заражённый вожак
+Rabid Minion->Заражённый прислужник
+Crazed Chieftain->Обезумевший вожак обезъян
+Putrid Chimeral->Гниющая химера
+Infected Ambusher->Заражённая невидь
+Plummeting Ursa->Падучий медведь
+Crazed Flamebeast->Обезумевший жарошкур
+Infected Rhoa->Заражённый роа
+Rabid Rhoa->Бешеный роа
+Putrid Weaver->Гниющий ткач
+Infected Adder->Заражённый аспид
+Putrid Serpent->Гниющий змей
+Rabid Maw->Бешеная пасть
+Fused Crawler->Размякший панцерник
+Mindless Scavenger->Безмозглый мусорщик
+Scavenging Vulture->Всеядный гриф
+Rotting Vulture->Гниющий гриф
+Infested Vulture->Заражённый гриф
+Dust Scrabbler->Пыльный норовик
+Dust Scrabbler->Пыльный норовик
+Dirt Scrabbler->Грязевой норовик
+Infested Skitterer->Заражённый легколап
+Lowlands Hopper->Равнинный скакун
+Sand Skitterer->Песчаный быстроног
+Sand Leaper->Песчаный прыгун
+Fury Hound->Огненный пёс
+War Hound->Боевой пёс
+Pitbull Demon->Демон-пёс
+Vicious Hound->Яростная гончая
+Rooster Fiend->Исчадие-задира
+Rooster Demon->Демон-задира
+Talon Archer->Когтистый лучник
+Feral Fowl->Дикий кокатрикс
+Fighting Bull->Бойцовый бык
+Avalanche Rider->Лавинный всадник
+Grazing Taurus->Пасущийся телец
+Savage Crab->Свирепый краб
+Infested Crawler->Заражённый ползун
+Infested Crab->Заражённый краб
+Enraptured Crab->Завороженный краб
+Infested Crawler->Заражённый ползун
+Bleached Crawler->Выбеленный ползун
+Echo of the Verdant->Эхо зелени
+Echo of the Verdant->Эхо зелени
+Maze Webspinner->Лабиринтный паутинник
+Maze Hatchling->Лабиринтный паучок
+Devourer->Пожиратель
+Maze Needleback->Лабиринтный игольник
+Maze Slitherer->Лабиринтный ползун
+Parasite->Паразит
+Ravenous Parasite->Голодный паразит
+Vicious Parasite->Ужасный паразит
+Poisonous Parasite->Ядовитый паразит
+Plated Parasite->Пластинчатый паразит
+Spitting Parasite->Паразит-плевун
+Brine Vassal->Морской слуга
+Swarthy Mollusc->Тёмный моллюск
+Purge Hound->Гончая очищения
+Purge Hound->Гончая очищения
+Sulphurspawn->Серное отродье
+Plagued Arachnid->Чумной арахнид
+Diseased Arachnid->Отравленный арахнид
+Maligaro's Muse->Муза Малигаро
+Hybrid Arachnid->Гибридный арахнид
+Scalding Arachnid->Едкий арахнид
+Waste Lurcher->Сточный ползун
+Wild Rhex->Дикий рекс
+Maternal Rhex->Созревший рекс
+Adolescent Rhex->Рекс-детёныш
+Escaped Rhex->Беглый рекс
+Black Scorpion->Чёрный скорпион
+Sulphuric Scorpion->Серный скорпион
+Sand Scorpion->Песчаный скорпион
+Predatory Scorpion->Хищный скорпион
+Mountain Lynx->Горная рысь
+Spider Crab->Краб-паук
+Skitterling->Малёк-прыгун
+Azurite Widow->Азуритовая вдова
+Cave Weta->Пещерный кузнечик
+Unstable Weta->Нестабильный кузнечик
+Cavestalker->Пещерный охотник
+Azure Ape->Лазурный примат
+Gorgol Alpha->Горгол-альфа
+Azure Shrieker->Лазурный визгун
+Charged Shrieker->Заряженный визгун
+Wild Bristle Matron->Дикая щетинистая матрона
+Wild Hellion Alpha->Дикий адский лев-альфа
+Wild Brambleback->Дикий шипоспин
+Vivid Watcher->Буйный наблюдатель
+Vivid Vulture->Буйный стервятник
+Vivid Abberarach->Буйный арахнион
+Primal Rhex Matriarch->Первобытная рекс-матриарх
+Primal Crushclaw->Первобытный клешнелом
+Primal Cystcaller->Первобытный наростень
+The Great White Beast->Великий белый зверь
+The Great White Bones->Великие белые кости
+Tyrannursus Maximus->Тиранурсус Максимус
+Elder-Blessed Goatman->Благословленный Древним козерог
+The Faun->Фавн
+Ungulath->Унгулат
+Elder-Blessed Hellion->Благословленный Древним адский лев
+The Burning Menace->Горящая угроза
+Nadia the Soothing->Надя Кроткая
+Aidan the Frenzied->Эйдан Бешеный
+Hollowskull, the Willing Host->Пусточереп, Послушный переносчик
+Elder-Blessed Rhoa->Благословленный Древним роа
+Albino Rhoa->Роа-альбинос
+Oozeback Bloom->Илистый грязеспин
+Ventarus->Вентарус
+The Dweller of the Deep->Обитатель глубин
+Ambrosia, Daughter of Merveil->Амброзия, дочь Мервейл
+Amarissa, Daughter of Merveil->Амарантия, дочь Мервейл
+Brood Princess->Царевна выводка
+Scrabbling Menace->Царапающая угроза
+Cave Crustacean->Пещерный краб
+Invading Crustacean->Нападающий краб
+Infested Crustacean->Заражённый краб
+Deep Crustacean->Глубинный краб
+Deep Crustacean->Глубинный краб
+Shield Crab->Крепкий краб
+Bleached Crustacean->Иссушенный краб
+Elder-Blessed Cobra->Благословленная Древним кобра
+Unstable Larva->Нестабильный кальмар
+Black Death->Чёрная смерть
+The Weaver->Ткачиха
+Balah, Duke->Бала
+Paradisae Venenum->Райский Ядоклюв
+Carrion Minion->Мерзкий выродок
+Elder-Blessed Retch->Благословленный Древним рыгатель
+Thistlesage->Чертополох
+Spirit of Nadia->Дух Нади
+Spirit of Aidan->Дух Эйдана
+Tunnelworm->Подземный поглотитель
+The Conqueror Wurm->Змей Завоеватель
+Mystic Devourer->Таинственный пожиратель
+Q'uru->К'уру
+The All-seeing Eye->Всевидящее око
+The All-seeing Eye->Всевидящее око
+Konu, Maker of Wind->Кону, Гонитель ветров
+Konu, Maker of Wind->Кону, Гонитель ветров
+Sheaq, Maker of Floods->Шиак, Собиратель туч
+Sheaq, Maker of Floods->Шиак, Собиратель туч
+Kamaq, Soilmaker->Кэмак, Маратель
+Kamaq, Soilmaker->Кэмак, Маратель
+Inti of the Blood Moon->Инти Кроваволунный
+Inti of the Blood Moon->Инти Кроваволунный
+Simi, the Nature Touched->Сими, Помазанный природой
+Simi, the Nature Touched->Сими, Помазанный природой
+The Sunburst Queen->Солнцеликая царица
+The Sunburst Queen->Солнцеликая царица
+Cintiq, the Inescapable->Синтик, Неотвратимый
+Cintiq, the Inescapable->Синтик, Неотвратимый
+Thornrunner->Шипоносец
+Thornrunner->Шипоносец
+Mother of the Hive->Королева улья
+Rima, Deep Temptress->Рима, Греховодница из глубин
+Rima, Deep Temptress->Рима, Греховодница из глубин
+Quetzerxi->Квецеркси
+Marrowcrush->Костомел
+The Cadaver Bull->Бодливый остов
+Junglemare->Мать джунглей
+Blood Stasis->Кровавый усыпитель
+Blood Morpher->Кровавый погонщик
+Spinesnap->Кусака
+Genesis Paradisae->Порождение рая
+Death from Above->Смерть свыше
+Guardian of the Mound->Страж кургана
+Alpha Paradisae->Райский вожак
+Mother of the Swarm->Мать роя
+Deathflutter->Смертоносец
+Bladetooth->Сталезуб
+Wrigglechaw->Пеленатель
+Blinkflame->Мерцающий пламень
+The Duchess->Матрона
+Shivershell->Ледяной панцирь
+Razorleaf->Страшный душитель
+Stranglecreep->Медноклык
+Pewterfang->Бледная вдова
+Bladeback Guardian->Шипастый страж
+Strangledrift->Парящий душитель
+Ghostram->Призрачный таранщик
+Risen Infested Beast->Остов заражённого зверя
+Mutated Ursa->Мутировавший медведь
+Mutated Watcher->Мутировавший смотритель
+Mutated Broodqueen->Мутировавший вожак
+Mutated Croaker->Мутировавший квакун
+Mutated Arachnid->Мутировавший арахнид
+Twisted Chimeral->Исковерканный ящер
+Mutated Flamebeast->Мутировавший жарошкур
+Mutated Winterclaw->Мутировавший хладокраб
+Mutated Chieftain->Мутировавший вожак обезьян
+Mutated Rhoa->Мутировавший роа
+Mutated Adder->Мутировавший аспид
+Mutated Maw->Мутировавшая пасть
+The Hundred Foot Shadow->Стофутовая тень
+Raihara, Tukohama's Loyal->Раихара, приверженец Тукохамы
+Steelchaw->Стальной жевун
+Eyepecker->Глазохват
+Boulderback->Камнеспин
+Mutewind Lynx->Рысь из Немого ветра
+Echo of the Verdant->Эхо зелени
+Echo of the Verdant->Эхо зелени
+Blue Frog->Голубая лягушка
+Common Frog->Обычная лягушка
+Strange Frog->Странная лягушка
+The Encephalophage->Энцефалофаг
+Lola, the Fierce->Лола, Свирепая
+Rocco, the Bloodthirsty->Рокко, Жаждущий крови
+Brinecrack->Морской щелкун
+Tamulus->Тамалус
+Tamipin->Тамипин
+The Basilisk->Василиск
+Saqawine Rhex->Рекс Сакаваля
+Saqawal, First of the Sky->Сакаваль, Первый Неба
+Saqawine Rhoa->Роа Сакаваля
+Saqawine Vulture->Гриф Сакаваля
+Saqawine Retch->Рыгатель Сакаваля
+Saqawine Cobra->Кобра Сакаваля
+Saqawine Blood Viper->Кровавая гадюка Сакаваля
+Saqawine Chimeral->Ящер Сакаваля
+Farric Flame Hellion Alpha->Адский лев-альфа Фаррул
+Farric Frost Hellion Alpha->Морозный адский лев Фаррул
+Farric Lynx Alpha->Рысь-альфа Фаррул
+Farric Tiger Alpha->Тигр-альфа Фаррул
+Farrul, First of the Plains->Фаррул, Первая Равнин
+Farric Wolf Alpha->Волк-альфа Фаррул
+Craiceann, First of the Deep->Краценн, Первый Глубин
+Fenumal Queen->Королева Фенумы
+Fenumal Scrabbler->Норовик Фенумы
+Fenumal Devourer->Пожиратель Фенумы
+Fenumal Scorpion->Скорпион Фенумы
+Fenumal Plagued Arachnid->Чумной арахнид Фенумы
+Fenumal Hybrid Arachnid->Гибридный арахнид Фенумы
+Fenumus, First of the Night->Фенума, Первая Ночи
+Fenumal Widow->Вдова Фенумы
+Farric Goliath->Исполин Фаррул
+Farric Taurus->Телец Фаррул
+Farric Chieftain->Вождь Фаррул
+Farric Ape->Примат Фаррул
+Farric Goatman->Козерог Фаррул
+Farric Magma Hound->Магмовая гончая Фаррул
+Farric Pit Hound->Подземная гончая Фаррул
+Farric Gargantuan->Громадина Фаррул
+Farric Ursa->Медведь Фаррул
+Craicic Sand Spitter->Песчаный плевун Краценна
+Craicic Shield Crab->Крепкий краб Краценна
+Craicic Savage Crab->Свирепый краб Краценна
+Craicic Spider Crab->Краб-паук Краценна
+Craicic Maw->Пасть Краценна
+Craicic Chimeral->Ящер Краценна
+Craicic Vassal->Слуга Краценна
+Craicic Squid->Кальмар Краценна
+Craicic Watcher->Смотритель Краценна
+The Black Mórrigan->Чернокрылая Морриган

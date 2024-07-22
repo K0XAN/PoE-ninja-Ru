@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "PoE ninja Ru",
+  "version": "1.0",
+  "description": "Автоматически заменяет текст на сайте poe.ninja.",
+  "permissions": ["storage","activeTab"],
+  "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon.png"
+    },
+    
+  "content_scripts": [
+    {
+      "matches": ["https://poe.ninja/economy/*", "https://poe.ninja/economy/necropolis/beasts"],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["replacements.txt","replacements_2.txt"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
