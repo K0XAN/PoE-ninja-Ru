@@ -1,7 +1,9 @@
-# PoE Ninja Translator
+![3](https://github.com/user-attachments/assets/f42e7e03-66fe-4881-9ffd-20b621c79992)# PoE Ninja Translator
 
 ### Описание
 Это расширение для браузера, которое заменяет текст на сайте [poe.ninja](https://poe.ninja/) на русский язык, чтобы сделать информацию более доступной для русскоязычных пользователей.
+Названия всех предметов на русском взяты с [PoEDB](https://poedb.tw/)
+В данный момент переведены только Бисты.
 
 ### Установка
 1. Загрузите файл с расширением `PoE-ninja-Ru.crx`.
@@ -12,6 +14,17 @@
 
 ### Как использовать
 - После установки рядом с адресной строкой появится иконка расширения. Нажмите на неё, чтобы открыть интерфейс и начать использование.
+
+### Как выглядит расширение.
+![1](https://github.com/user-attachments/assets/a0b66e1f-9821-4189-85a8-a54a0e6ca227)
+![2](https://github.com/user-attachments/assets/1f0f1efe-004b-4589-8b82-c6b0d4d252b8)
+Пример работы
+Оригинал
+![3](https://github.com/user-attachments/assets/0cb481d7-f490-4853-a935-6229f17140fc)
+Английский и (Русский)
+![4](https://github.com/user-attachments/assets/a1d54471-9a51-488f-8e27-b325e0d61643)
+Русский
+![5](https://github.com/user-attachments/assets/ba89c622-a893-4d5c-bfd9-a1da06ad6e30)
 
   
 ---
