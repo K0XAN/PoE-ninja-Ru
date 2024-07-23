@@ -19,7 +19,6 @@
 
 ### Как выглядит расширение.
 ![1](https://github.com/user-attachments/assets/7b2b80db-d483-400a-9284-3f24a0423f30)
-
 ![2](https://github.com/user-attachments/assets/54507549-7686-4ed7-a296-abe5968f8303)
 
 ## Пример работы
