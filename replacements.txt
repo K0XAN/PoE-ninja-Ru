@@ -1,3 +1,1383 @@
+Blacksmith's Whetstone->Blacksmith's Whetstone-(Точильный камень)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Improves the quality of a weapon->Improves the quality of a weapon-(Повышает качество оружия)
+
+Scroll of Wisdom->Scroll of Wisdom-(Свиток мудрости)
+Stack Size: 1 / 40->Stack Size: 1 / 40-(Размер стопки: 1 / 40)
+Identifies an item->Identifies an item-(Опознаёт предмет)
+
+Chaos Orb->Chaos Orb-(Сфера хаоса)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Reforges a rare item with new random modifiers->Reforges a rare item with new random modifiers-(Перековывает редкий предмет, наделяя его новыми случайными свойствами)
+
+Veiled Orb->Veiled Orb-(Скрытая сфера)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Removes a random modifier and adds a random Veiled modifier to a rare item->Removes a random modifier and adds a random Veiled modifier to a rare item-(Удаляет с редкого предмета случайное свойство и добавляет скрытое свойство.)
+
+Armourer's Scrap->Armourer's Scrap-(Деталь доспеха)
+Stack Size: 1 / 40->Stack Size: 1 / 40-(Размер стопки: 1 / 40)
+Improves the quality of an armour->Improves the quality of an armour-(Повышает качество доспехов)
+
+Mirror of Kalandra->Mirror of Kalandra-(Зеркало Каландры)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Creates a mirrored copy of an item->Creates a mirrored copy of an item-(Создаёт зеркальную копию предмета)
+
+Orb of Alchemy->Orb of Alchemy-(Сфера алхимии)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Upgrades a normal item to a rare item->Upgrades a normal item to a rare item-(Улучшает обычный предмет до редкого)
+
+Orb of Chance->Orb of Chance-(Сфера удачи)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Upgrades a normal item to a random rarity->Upgrades a normal item to a random rarity-(Улучшает обычный предмет до случайного уровня редкости)
+
+Orb of Regret->Orb of Regret-(Сфера раскаяния)
+Stack Size: 1 / 40->Stack Size: 1 / 40-(Размер стопки: 1 / 40)
+Grants a passive skill refund point->Grants a passive skill refund point-(Дает очко сброса пассивного умения.)
+
+Orb of Unmaking->Orb of Unmaking-(Сфера небытия)
+Stack Size: 1 / 40->Stack Size: 1 / 40-(Размер стопки: 1 / 40)
+Grants an atlas passive skill refund point->Grants an atlas passive skill refund point-(Возвращает очко пассивного умения Атласа)
+
+Orb of Transmutation->Orb of Transmutation-(Сфера превращения)
+Stack Size: 1 / 40->Stack Size: 1 / 40-(Размер стопки: 1 / 40)
+Upgrades a normal item to a magic item->Upgrades a normal item to a magic item-(Улучшает обычный предмет до волшебного)
+
+Orb of Alteration->Orb of Alteration-(Сфера перемен)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Reforges a magic item with new random modifiers->Reforges a magic item with new random modifiers-(Перековывает волшебный предмет, наделяя его новыми случайными свойствами)
+
+Orb of Scouring->Orb of Scouring-(Сфера очищения)
+Stack Size: 1 / 30->Stack Size: 1 / 30-(Размер стопки: 1 / 30)
+Removes all modifiers from an item->Removes all modifiers from an item-(Удаляет все свойства с предмета)
+
+Exalted Orb->Exalted Orb-(Сфера возвышения)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Augments a rare item with a new random modifier->Augments a rare item with a new random modifier-(Усиливает редкий предмет, наделяя его новым случайным свойством)
+
+Regal Orb->Regal Orb-(Сфера царей)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Upgrades a magic item to a rare item->Upgrades a magic item to a rare item-(Улучшает волшебный предмет до редкого)
+
+Orb of Augmentation->Orb of Augmentation-(Сфера усиления)
+Stack Size: 1 / 30->Stack Size: 1 / 30-(Размер стопки: 1 / 30)
+Augments a magic item with a new random modifier->Augments a magic item with a new random modifier-(Усиливает волшебный предмет, наделяя его новым случайным свойством)
+
+Portal Scroll->Portal Scroll-(Свиток портала)
+Stack Size: 1 / 40->Stack Size: 1 / 40-(Размер стопки: 1 / 40)
+Creates a portal to town->Creates a portal to town-(Создаёт портал в город)
+
+Glassblower's Bauble->Glassblower's Bauble-(Стекольная масса)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Improves the quality of a flask->Improves the quality of a flask-(Повышает качество флакона)
+
+Gemcutter's Prism->Gemcutter's Prism-(Призма камнереза)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Improves the quality of a gem->Improves the quality of a gem-(Повышает качество камня)
+
+Chromatic Orb->Chromatic Orb-(Цветная сфера)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Reforges the colour of sockets on an item->Reforges the colour of sockets on an item-(Перековывает цвета гнёзд на предмете)
+
+Orb of Fusing->Orb of Fusing-(Сфера соединения)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Reforges the links between sockets on an item->Reforges the links between sockets on an item-(Перековывает связи между гнёздами на предмете)
+
+Jeweller's Orb->Jeweller's Orb-(Сфера златокузнеца)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Reforges the number of sockets on an item->Reforges the number of sockets on an item-(Перековывает число гнёзд на предмете)
+
+Divine Orb->Divine Orb-(Божественная сфера)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Randomises the values of the random modifiers on an item->Randomises the values of the random modifiers on an item-(Изменяет значения случайных свойств предмета)
+
+Blessed Orb->Blessed Orb-(Благодатная сфера)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Randomises the values of the implicit modifiers of an item->Randomises the values of the implicit modifiers of an item-(Изменяет значения собственных свойств предмета)
+
+Sacred Orb->Sacred Orb-(Священная сфера)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Randomises the numeric values of base defences on an armour->Randomises the numeric values of base defences on an armour-(Изменяет числовые значения базовой защиты на доспехах)
+
+Cartographer's Chisel->Cartographer's Chisel-(Резец картографа)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Improves the quality of a map->Improves the quality of a map-(Повышает качество карты)
+
+Scroll Fragment->Scroll Fragment-(Обрывок свитка)
+Stack Size: 1 / 5->Stack Size: 1 / 5-(Размер стопки: 1 / 5)
+
+Transmutation Shard->Transmutation Shard-(Осколок превращения)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+
+Alteration Shard->Alteration Shard-(Осколок перемен)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+
+Alchemy Shard->Alchemy Shard-(Осколок алхимии)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+
+Albino Rhoa Feather->Albino Rhoa Feather-(Перо белого роа)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+
+Eternal Orb->Eternal Orb-(Сфера вечного)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Creates an imprint of an item for later restoration->Creates an imprint of an item for later restoration-(Создаёт cлепок предмета для дальнейшего восстановления)
+The imprint can't be applied to Fractured Items->The imprint can't be applied to Fractured Items-(Слепок нельзя использовать на расколотых предметах)
+
+Imprint->Imprint-(Слепок)
+Restores an imprinted item onto the original->Restores an imprinted item onto the original-(Восстанавливает оригинальный предмет по его слепку)
+Can't be applied to Fractured Items->Can't be applied to Fractured Items-(Нельзя использовать на расколотых предметах)
+
+Vaal Orb->Vaal Orb-(Сфера ваал)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Corrupts an item, modifying it unpredictably->Corrupts an item, modifying it unpredictably-(Оскверняет предмет, непредсказуемо изменяя его)
+
+Enchant->Enchant-(Зачарование)
+Stack Size: 1 / 9->Stack Size: 1 / 9-(Размер стопки: 1 / 9)
+Adds an enchantment to an item, or replaces an existing enchantment->Adds an enchantment to an item, or replaces an existing enchantment-(Добавляет предмету зачарование либо заменяет существующее зачарование)
+
+Tainted Blessing->Tainted Blessing-(Порочное благословение)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+
+Corrupt->Corrupt-(Осквернение)
+
+Corrupt->Corrupt-(Осквернение)
+
+Corrupt->Corrupt-(Осквернение)
+
+Perandus Coin->Perandus Coin-(Монета Перандусов)
+Stack Size: 1 / 5000->Stack Size: 1 / 5000-(Размер стопки: 1 / 5000)
+
+Prophecy->Prophecy-(Пророчество)
+
+Bestiary Orb->Bestiary Orb-(Сфера Бестиария)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Stores a Beast in an item->Stores a Beast in an item-(Заключает монстра в предмет)
+
+Imprinted Bestiary Orb->Imprinted Bestiary Orb-(Запечатанная сфера Бестиария)
+
+Empty Coffin->Empty Coffin-(Пустой гроб)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Stores a Corpse in an item->Stores a Corpse in an item-(Превращает труп в предмет)
+
+Filled Coffin->Filled Coffin-(Заполненный гроб)
+
+Surveyor's Compass->Surveyor's Compass-(Компас топографа)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Stores a Sextant Modifier in an item->Stores a Sextant Modifier in an item-(Превращает свойство секстанта в предмет, который можно использовать для торговли)
+
+Prime Regrading Lens->Prime Regrading Lens-(Первичная профилирующая линза)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Change the type of quality of a skill gem with quality to another random quality->Change the type of quality of a skill gem with quality to another random quality-(Изменяет тип качества камня умения c качеством на другой случайный тип качества)
+
+Secondary Regrading Lens->Secondary Regrading Lens-(Вторичная профилирующая линза)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Change the type of quality of a support gem with quality to another random quality->Change the type of quality of a support gem with quality to another random quality-(Изменяет тип качества камня поддержки c качеством на другой случайный тип качества)
+
+Tempering Orb->Tempering Orb-(Сфера закалки)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Adds or replaces an enchantment on a weapon->Adds or replaces an enchantment on a weapon-(Добавляет либо заменяет зачарование на оружии)
+This may reforge the weapon's sockets->This may reforge the weapon's sockets-(При этом может перековать гнёзда в оружии)
+
+Tailoring Orb->Tailoring Orb-(Сфера подгонки)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Adds or replaces an enchantment on a body armour->Adds or replaces an enchantment on a body armour-(Добавляет либо заменяет зачарование на нательном доспехе)
+This may reforge the body armour's sockets->This may reforge the body armour's sockets-(При этом может перековать гнёзда в доспехе)
+
+Veiled Scarab->Veiled Scarab-(Скрытый скарабей)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+A collection of unknown Scarabs->A collection of unknown Scarabs-(Коллекция неизвестных скарабеев)
+
+Apprentice Cartographer's Seal->Apprentice Cartographer's Seal-(Печать картоходца-ученика)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Uncompletes a white map on the Atlas->Uncompletes a white map on the Atlas-(Отменяет завершение белой карты на Атласе)
+
+Journeyman Cartographer's Seal->Journeyman Cartographer's Seal-(Печать картоходца-подмастерья)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Uncompletes a yellow or white map on the Atlas->Uncompletes a yellow or white map on the Atlas-(Отменяет завершение белой или жёлтой карты на Атласе)
+
+Master Cartographer's Seal->Master Cartographer's Seal-(Печать мастера картоходца)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Uncompletes any map on the Atlas->Uncompletes any map on the Atlas-(Отменяет завершение любой карты на Атласе)
+
+Unshaping Orb->Unshaping Orb-(Сфера разрушения)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Downgrades a map on the Atlas->Downgrades a map on the Atlas-(Понижает уровень карты на Атласе)
+
+Orb of Annulment->Orb of Annulment-(Сфера отмены)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Removes a random modifier from an item->Removes a random modifier from an item-(Удаляет случайное свойство с предмета)
+
+Orb of Binding->Orb of Binding-(Сфера сплетения)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Upgrades a normal item to a rare item with up to four linked sockets->Upgrades a normal item to a rare item with up to four linked sockets-(Улучшает обычный предмет до редкого и связывает его гнёзда, вплоть до четырёх связей)
+
+Orb of Horizons->Orb of Horizons-(Сфера горизонтов)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Reforges a map item as another of the same tier->Reforges a map item as another of the same tier-(Перековывает карту в другую карту того же уровня)
+
+Harbinger's Orb->Harbinger's Orb-(Сфера Предвестника)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Reforges a map item as another of a higher tier->Reforges a map item as another of a higher tier-(Перековывает карту в другую карту более высокого уровня)
+
+Engineer's Orb->Engineer's Orb-(Сфера инженера)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Improves the quality of a Strongbox->Improves the quality of a Strongbox-(Повышает качество ларца)
+
+Infused Engineer's Orb->Infused Engineer's Orb-(Заряженная сфера инженера)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Greatly improves the quality and rewards of a Strongbox and strengthens its defenders->Greatly improves the quality and rewards of a Strongbox and strengthens its defenders-(Существенно повышает качество и награды ларца и усиливает его защитников)
+
+Ancient Orb->Ancient Orb-(Древняя сфера)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Reforges a unique equipment as another of the same item class->Reforges a unique equipment as another of the same item class-(Перековывает уникальную экипировку в другую уникальную экипировку такого же класса)
+
+Fracturing Orb->Fracturing Orb-(Раскалывающая сфера)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Fracture a random modifier on a rare item with at least 4 modifiers, locking it in place->Fracture a random modifier on a rare item with at least 4 modifiers, locking it in place-(Раскалывает случайное свойство на редком предмете с минимум 4 свойствами, закрепляя его на месте)
+
+Annulment Shard->Annulment Shard-(Осколок отмены)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+
+Binding Shard->Binding Shard-(Осколок сплетения)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+
+Horizon Shard->Horizon Shard-(Осколок горизонтов)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+
+Harbinger's Shard->Harbinger's Shard-(Осколок Предвестника)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+
+Engineer's Shard->Engineer's Shard-(Инженерный осколок)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+
+Ancient Shard->Ancient Shard-(Древний осколок)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+
+Chaos Shard->Chaos Shard-(Осколок хаоса)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+
+Mirror Shard->Mirror Shard-(Осколок зеркала)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+
+Exalted Shard->Exalted Shard-(Осколок возвышения)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+
+Regal Shard->Regal Shard-(Осколок царей)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+
+Fracturing Shard->Fracturing Shard-(Раскалывающий осколок)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+
+Time-light Scroll->Time-light Scroll-(Свиток времени и света)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Upgrades The Flow Untethered to a more powerful version->Upgrades The Flow Untethered to a more powerful version-(Улучшает уникальный пояс Безграничный поток до более мощной версии.)
+
+Fragmentation Scroll->Fragmentation Scroll-(Свиток фрагментации)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Upgrades The Fracturing Spinner to a more powerful version->Upgrades The Fracturing Spinner to a more powerful version-(Улучшает уникальный колчан Дробящая пряха до более мощной версии.)
+
+Deregulation Scroll->Deregulation Scroll-(Свиток дерегуляции)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Upgrades The Tempest's Binding to a more powerful version->Upgrades The Tempest's Binding to a more powerful version-(Улучшает уникальный шлем Грозовые оковы до более мощной версии.)
+
+Electroshock Scroll->Electroshock Scroll-(Свиток электрошока)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Upgrades The Rippling Thoughts to a more powerful version->Upgrades The Rippling Thoughts to a more powerful version-(Улучшает уникальный одноручный меч Струящиеся мысли до более мощной версии.)
+
+Haemocombustion Scroll->Haemocombustion Scroll-(Свиток кровосожжения)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Upgrades The Enmity Divine to a more powerful version->Upgrades The Enmity Divine to a more powerful version-(Улучшает уникальный посох Небесная вражда до более мощной версии.)
+
+Specularity Scroll->Specularity Scroll-(Свиток зеркальности)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Upgrades The Unshattered Will to a more powerful version->Upgrades The Unshattered Will to a more powerful version-(Улучшает уникальный щит Нерушимая воля до более мощной версии.)
+
+Facetor's Lens->Facetor's Lens-(Линза награнения)
+Adds stored experience to a gem, up to its maximum level->Adds stored experience to a gem, up to its maximum level-(Передаёт накопленный опыт камню, вплоть до его максимального уровня)
+
+Magmatic Ore->Magmatic Ore-(Магматическая руда)
+Adds stored Crucible experience to an item->Adds stored Crucible experience to an item-(Передаёт накопленный опыт Горнила предмету)
+
+Ritual Vessel->Ritual Vessel-(Ритуальный сосуд)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Stores the monsters slain for the first time from a completed Ritual Altar for future use->Stores the monsters slain for the first time from a completed Ritual Altar for future use-(Сохраняет впервые убитых монстров из завершённого ритуального алтаря для дальнейшего использования)
+
+Lesser Eldritch Ember->Lesser Eldritch Ember-(Мелкий древний уголёк)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds a Lesser Searing Exarch implicit modifier to->Adds a Lesser Searing Exarch implicit modifier to-(Добавляет слабое собственное свойство Пламенного эхзарха)
+a Body Armour, Boots, Gloves or Helmet->a Body Armour, Boots, Gloves or Helmet-(на нательные доспехи, обувь, перчатки или шлем,)
+This replaces any existing implicit modifiers other than Eater of Worlds implicit modifiers->This replaces any existing implicit modifiers other than Eater of Worlds implicit modifiers-(заменяя любые существующие собственные свойства, кроме собственных свойств Пожирателя миров)
+
+Greater Eldritch Ember->Greater Eldritch Ember-(Крупный древний уголёк)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds a Greater Searing Exarch implicit modifier to->Adds a Greater Searing Exarch implicit modifier to-(Добавляет среднее собственное свойство Пламенного эхзарха)
+a Body Armour, Boots, Gloves or Helmet->a Body Armour, Boots, Gloves or Helmet-(на нательные доспехи, обувь, перчатки или шлем,)
+This replaces any existing implicit modifiers other than Eater of Worlds implicit modifiers->This replaces any existing implicit modifiers other than Eater of Worlds implicit modifiers-(заменяя любые существующие собственные свойства, кроме собственных свойств Пожирателя миров)
+
+Grand Eldritch Ember->Grand Eldritch Ember-(Великий древний уголёк)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds a Grand Searing Exarch implicit modifier to->Adds a Grand Searing Exarch implicit modifier to-(Добавляет сильное собственное свойство Пламенного эхзарха)
+a Body Armour, Boots, Gloves or Helmet->a Body Armour, Boots, Gloves or Helmet-(на нательные доспехи, обувь, перчатки или шлем,)
+This replaces any existing implicit modifiers other than Eater of Worlds implicit modifiers->This replaces any existing implicit modifiers other than Eater of Worlds implicit modifiers-(заменяя любые существующие собственные свойства, кроме собственных свойств Пожирателя миров)
+
+Exceptional Eldritch Ember->Exceptional Eldritch Ember-(Превосходный древний уголёк)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds an Exceptional Searing Exarch implicit modifier to->Adds an Exceptional Searing Exarch implicit modifier to-(Добавляет исключительное собственное свойство Пламенного эхзарха)
+a Body Armour, Boots, Gloves or Helmet->a Body Armour, Boots, Gloves or Helmet-(на нательные доспехи, обувь, перчатки или шлем,)
+This replaces any existing implicit modifiers other than Eater of Worlds implicit modifiers->This replaces any existing implicit modifiers other than Eater of Worlds implicit modifiers-(заменяя любые существующие собственные свойства, кроме собственных свойств Пожирателя миров)
+
+Lesser Eldritch Ichor->Lesser Eldritch Ichor-(Мелкий зловещий ихор)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds a Lesser Eater of Worlds implicit modifier to->Adds a Lesser Eater of Worlds implicit modifier to-(Добавляет слабое собственное свойство Пожирателя миров)
+a Body Armour, Boots, Gloves or Helmet->a Body Armour, Boots, Gloves or Helmet-(на нательные доспехи, обувь, перчатки или шлем,)
+This replaces any existing implicit modifiers other than Searing Exarch implicit modifiers->This replaces any existing implicit modifiers other than Searing Exarch implicit modifiers-(заменяя любые существующие собственные свойства, кроме собственных свойств Пламенного эхзарха)
+
+Greater Eldritch Ichor->Greater Eldritch Ichor-(Крупный зловещий ихор)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds a Greater Eater of Worlds implicit modifier to->Adds a Greater Eater of Worlds implicit modifier to-(Добавляет среднее собственное свойство Пожирателя миров)
+a Body Armour, Boots, Gloves or Helmet->a Body Armour, Boots, Gloves or Helmet-(на нательные доспехи, обувь, перчатки или шлем,)
+This replaces any existing implicit modifiers other than Searing Exarch implicit modifiers->This replaces any existing implicit modifiers other than Searing Exarch implicit modifiers-(заменяя любые существующие собственные свойства, кроме собственных свойств Пламенного эхзарха)
+
+Grand Eldritch Ichor->Grand Eldritch Ichor-(Великий зловещий ихор)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds a Grand Eater of Worlds implicit modifier to->Adds a Grand Eater of Worlds implicit modifier to-(Добавляет сильное собственное свойство Пожирателя миров)
+a Body Armour, Boots, Gloves or Helmet->a Body Armour, Boots, Gloves or Helmet-(на нательные доспехи, обувь, перчатки или шлем,)
+This replaces any existing implicit modifiers other than Searing Exarch implicit modifiers->This replaces any existing implicit modifiers other than Searing Exarch implicit modifiers-(заменяя любые существующие собственные свойства, кроме собственных свойств Пожирателя миров)
+
+Exceptional Eldritch Ichor->Exceptional Eldritch Ichor-(Превосходный зловещий ихор)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds an Exceptional Eater of Worlds implicit modifier to->Adds an Exceptional Eater of Worlds implicit modifier to-(Добавляет исключительное собственное свойство Пожирателя миров)
+a Body Armour, Boots, Gloves or Helmet->a Body Armour, Boots, Gloves or Helmet-(на нательные доспехи, обувь, перчатки или шлем,)
+This replaces any existing implicit modifiers other than Searing Exarch implicit modifiers->This replaces any existing implicit modifiers other than Searing Exarch implicit modifiers-(заменяя любые существующие собственные свойства, кроме собственных свойств Пламенного эхзарха)
+
+Orb of Conflict->Orb of Conflict-(Сфера вражды)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Unpredictably raise the strength of one Searing Exarch or Eater of Worlds modifier on an item and lower the strength of another->Unpredictably raise the strength of one Searing Exarch or Eater of Worlds modifier on an item and lower the strength of another-(Непредсказуемым образом повышает силу одного свойства Пламенного экзарха или Пожирателя миров на предмете и снижает силу другого)
+Lesser modifiers that have their strength lowered will be removed->Lesser modifiers that have their strength lowered will be removed-(Если понижается сила свойства низшего ранга, оно удаляется)
+
+Uncarved Gemstone->Uncarved Gemstone-(Необработанный камень)
+
+Valdo's Puzzle Box->Valdo's Puzzle Box-(Куб загадок Валдо)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Contains a Mysterious Map with a Foil Unique Reward->Contains a Mysterious Map with a Foil Unique Reward-(Содержит загадочную карту с особым уникальным предметом)
+
+Stacked Deck->Stacked Deck-(Колода карт)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+A stack of unknown divination cards->A stack of unknown divination cards-(Колода случайных гадальных карт.)
+
+Crusader's Exalted Orb->Crusader's Exalted Orb-(Сфера возвышения крестоносца)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Adds Crusader influence and a new Crusader modifier to a rare item->Adds Crusader influence and a new Crusader modifier to a rare item-(Добавляет влияние Крестоносца и новое свойство Крестоносца на редкий предмет)
+
+Redeemer's Exalted Orb->Redeemer's Exalted Orb-(Сфера возвышения избавителя)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Adds Redeemer influence and a new Redeemer modifier to a rare item->Adds Redeemer influence and a new Redeemer modifier to a rare item-(Добавляет влияние Избавителя и новое свойство Избавителя на редкий предмет)
+
+Hunter's Exalted Orb->Hunter's Exalted Orb-(Сфера возвышения охотника)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Adds Hunter influence and a new Hunter modifier to a rare item->Adds Hunter influence and a new Hunter modifier to a rare item-(Добавляет влияние Охотника и новое свойство Охотника на редкий предмет)
+
+Warlord's Exalted Orb->Warlord's Exalted Orb-(Сфера возвышения вождя)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Adds Warlord influence and a new Warlord modifier to a rare item->Adds Warlord influence and a new Warlord modifier to a rare item-(Добавляет влияние Вождя и новое свойство Вождя на редкий предмет)
+
+Awakener's Orb->Awakener's Orb-(Сфера Пробудителя)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Destroys an item, applying its influence to another of the same item class->Destroys an item, applying its influence to another of the same item class-(Уничтожает предмет, перенося его влияние на другой предмет такого же типа)
+The second item is reforged as a rare item with both influence types and new modifiers->The second item is reforged as a rare item with both influence types and new modifiers-(Перековывает конечный предмет, делая его редким и наделяя как влиянием, так и новыми свойствами)
+
+Rogue's Marker->Rogue's Marker-(Разбойничий жетон)
+Stack Size: 1 / 50000->Stack Size: 1 / 50000-(Размер стопки: 1 / 50000)
+Creates a portal to the Rogue Harbour from a Town or Hideout->Creates a portal to the Rogue Harbour from a Town or Hideout-(Открывает портал в Разбойничью гавань из города или убежища)
+Used as Currency for services in the Rogue Harbour->Used as Currency for services in the Rogue Harbour-(Служит валютой для оплаты услуг в Разбойничьей гавани)
+
+Orb of Dominance->Orb of Dominance-(Сфера господства)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Removes one Influenced Modifier from an item with at least two Influenced->Removes one Influenced Modifier from an item with at least two Influenced-(Удаляет с предмета, у которого как минимум два свойства влияния,)
+Modifiers and upgrades another Influenced Modifier->Modifiers and upgrades another Influenced Modifier-(одно из этих свойств и улучшает другое свойство влияния)
+Upgrading a modifier of the highest tier transforms the->Upgrading a modifier of the highest tier transforms the-(Улучшение свойства до наивысшего уровня)
+modifier into an Elevated Modifier->modifier into an Elevated Modifier-(превращает это свойство в возвышенное свойство)
+Attempting to upgrade an Elevated Modifier rerolls its values->Attempting to upgrade an Elevated Modifier rerolls its values-(Попытка улучшить возвышенное свойство изменяет его значения)
+Can be used on Body Armours, Boots, Gloves and Helmets->Can be used on Body Armours, Boots, Gloves and Helmets-(Можно использовать на нательных доспехах, обуви, перчатках и шлемах)
+
+Enkindling Orb->Enkindling Orb-(Растопляющая сфера)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Adds an enchantment to a utility flask that will improve it->Adds an enchantment to a utility flask that will improve it-(Добавляет зачарование на особый флакон, которое усилит его,)
+but prevent it from gaining charges during its effect->but prevent it from gaining charges during its effect-(но не позволит флакону накапливать заряды во время действия)
+Replaces any existing enchantment->Replaces any existing enchantment-(Заменяет любое существующее зачарование)
+
+Instilling Orb->Instilling Orb-(Вливающая сфера)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Adds an enchantment to a utility flask that will cause->Adds an enchantment to a utility flask that will cause-(Добавляет зачарование на особый флакон, которое вызовет)
+it to be used when certain conditions are met->it to be used when certain conditions are met-(его использование при определённых условиях)
+Replaces any existing enchantment->Replaces any existing enchantment-(Заменяет любое существующее зачарование)
+
+Exotic Coinage->Exotic Coinage-(Диковинные монеты)
+Stack Size: 1 / 1000->Stack Size: 1 / 1000-(Размер стопки: 1 / 1000)
+
+Scrap Metal->Scrap Metal-(Металлолом)
+Stack Size: 1 / 1000->Stack Size: 1 / 1000-(Размер стопки: 1 / 1000)
+
+Astragali->Astragali-(Таранные кости)
+Stack Size: 1 / 1000->Stack Size: 1 / 1000-(Размер стопки: 1 / 1000)
+
+Burial Medallion->Burial Medallion-(Погребальный медальон)
+Stack Size: 1 / 1000->Stack Size: 1 / 1000-(Размер стопки: 1 / 1000)
+
+Lesser Broken Circle Artifact->Lesser Broken Circle Artifact-(Мелкий артефакт Разомкнутого круга)
+Stack Size: 1 / 50000->Stack Size: 1 / 50000-(Размер стопки: 1 / 50000)
+
+Greater Broken Circle Artifact->Greater Broken Circle Artifact-(Крупный артефакт Разомкнутого круга)
+Stack Size: 1 / 50000->Stack Size: 1 / 50000-(Размер стопки: 1 / 50000)
+
+Grand Broken Circle Artifact->Grand Broken Circle Artifact-(Великий артефакт Разомкнутого круга)
+Stack Size: 1 / 25000->Stack Size: 1 / 25000-(Размер стопки: 1 / 25000)
+
+Exceptional Broken Circle Artifact->Exceptional Broken Circle Artifact-(Превосходный артефакт Разомкнутого круга)
+Stack Size: 1 / 5000->Stack Size: 1 / 5000-(Размер стопки: 1 / 5000)
+
+Lesser Black Scythe Artifact->Lesser Black Scythe Artifact-(Мелкий артефакт Чёрной косы)
+Stack Size: 1 / 50000->Stack Size: 1 / 50000-(Размер стопки: 1 / 50000)
+
+Greater Black Scythe Artifact->Greater Black Scythe Artifact-(Крупный артефакт Чёрной косы)
+Stack Size: 1 / 50000->Stack Size: 1 / 50000-(Размер стопки: 1 / 50000)
+
+Grand Black Scythe Artifact->Grand Black Scythe Artifact-(Великий артефакт Чёрной косы)
+Stack Size: 1 / 25000->Stack Size: 1 / 25000-(Размер стопки: 1 / 25000)
+
+Exceptional Black Scythe Artifact->Exceptional Black Scythe Artifact-(Превосходный артефакт Чёрной косы)
+Stack Size: 1 / 5000->Stack Size: 1 / 5000-(Размер стопки: 1 / 5000)
+
+Lesser Order Artifact->Lesser Order Artifact-(Мелкий артефакт Ордена)
+Stack Size: 1 / 50000->Stack Size: 1 / 50000-(Размер стопки: 1 / 50000)
+
+Greater Order Artifact->Greater Order Artifact-(Крупный артефакт Ордена)
+Stack Size: 1 / 50000->Stack Size: 1 / 50000-(Размер стопки: 1 / 50000)
+
+Grand Order Artifact->Grand Order Artifact-(Великий артефакт Ордена)
+Stack Size: 1 / 25000->Stack Size: 1 / 25000-(Размер стопки: 1 / 25000)
+
+Exceptional Order Artifact->Exceptional Order Artifact-(Превосходный артефакт Ордена)
+Stack Size: 1 / 5000->Stack Size: 1 / 5000-(Размер стопки: 1 / 5000)
+
+Lesser Sun Artifact->Lesser Sun Artifact-(Мелкий артефакт Солнца)
+Stack Size: 1 / 50000->Stack Size: 1 / 50000-(Размер стопки: 1 / 50000)
+
+Greater Sun Artifact->Greater Sun Artifact-(Крупный артефакт Солнца)
+Stack Size: 1 / 50000->Stack Size: 1 / 50000-(Размер стопки: 1 / 50000)
+
+Grand Sun Artifact->Grand Sun Artifact-(Великий артефакт Солнца)
+Stack Size: 1 / 25000->Stack Size: 1 / 25000-(Размер стопки: 1 / 25000)
+
+Exceptional Sun Artifact->Exceptional Sun Artifact-(Превосходный артефакт Солнца)
+Stack Size: 1 / 5000->Stack Size: 1 / 5000-(Размер стопки: 1 / 5000)
+
+Tainted Chromatic Orb->Tainted Chromatic Orb-(Порочная цветная сфера)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Unpredictably reforges the colour of sockets on a corrupted item->Unpredictably reforges the colour of sockets on a corrupted item-(Непредсказуемым образом перековывает цвета гнёзд на осквернённом предмете)
+
+Tainted Orb of Fusing->Tainted Orb of Fusing-(Порочная сфера соединения)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Unpredictably adds or removes a link to the largest group of linked sockets on a corrupted item->Unpredictably adds or removes a link to the largest group of linked sockets on a corrupted item-(Непредсказуемым образом добавляет или удаляет связь для наибольшей группы связанных гнёзд на осквернённом предмете)
+
+Tainted Jeweller's Orb->Tainted Jeweller's Orb-(Порочная сфера златокузнеца)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Unpredictably adds or removes a socket on a corrupted item->Unpredictably adds or removes a socket on a corrupted item-(Непредсказуемым образом добавляет или удаляет гнёздо с осквернённого предмета)
+
+Tainted Chaos Orb->Tainted Chaos Orb-(Порочная сфера хаоса)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Unpredictably either reforges a corrupted rare item with new random modifiers or removes all of its modifiers->Unpredictably either reforges a corrupted rare item with new random modifiers or removes all of its modifiers-(Непредсказуемым образом наделяет осквернённый редкий предмет новыми случайными свойствами либо удаляет все его свойства)
+
+Tainted Exalted Orb->Tainted Exalted Orb-(Порочная сфера возвышения)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Unpredictably adds or removes a modifier on a corrupted rare item->Unpredictably adds or removes a modifier on a corrupted rare item-(Непредсказуемым образом добавляет или удаляет свойство с осквернённого редкого предмета)
+
+Tainted Mythic Orb->Tainted Mythic Orb-(Порочная мифическая сфера)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Unpredictably either upgrades a corrupted item to unique rarity or destroys it->Unpredictably either upgrades a corrupted item to unique rarity or destroys it-(Непредсказуемым образом улучшает осквернённый предмет до уникального либо уничтожает его)
+
+Tainted Armourer's Scrap->Tainted Armourer's Scrap-(Порочная деталь доспеха)
+Stack Size: 1 / 40->Stack Size: 1 / 40-(Размер стопки: 1 / 40)
+Randomises the quality of a corrupted armour->Randomises the quality of a corrupted armour-(Изменяет качество осквернённых доспехов)
+
+Tainted Blacksmith's Whetstone->Tainted Blacksmith's Whetstone-(Порочный точильный камень)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Randomises the quality of a corrupted weapon->Randomises the quality of a corrupted weapon-(Изменяет качество осквернённого оружия)
+
+Tainted Divine Teardrop->Tainted Divine Teardrop-(Порочная божественная слеза)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Unpredictably raises or lowers the tier of each modifier on a corrupted rare item->Unpredictably raises or lowers the tier of each modifier on a corrupted rare item-(Непредсказуемым образом повышает или понижает уровень каждого свойства на осквернённом редком предмете)
+
+Eldritch Chaos Orb->Eldritch Chaos Orb-(Мистическая сфера хаоса)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+If The Searing Exarch is dominant, reroll prefix modifiers->If The Searing Exarch is dominant, reroll prefix modifiers-(Если преобладает Пламенный экзарх, изменяет свойства-префиксы)
+If The Eater of Worlds is dominant, reroll suffix modifiers->If The Eater of Worlds is dominant, reroll suffix modifiers-(Если преобладает Пожиратель миров, изменяет свойства-суффиксы)
+
+Eldritch Exalted Orb->Eldritch Exalted Orb-(Мистическая сфера возвышения)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+If The Searing Exarch is dominant, add a prefix modifier->If The Searing Exarch is dominant, add a prefix modifier-(Если преобладает Пламенный экзарх, добавляет свойство-префикс)
+If The Eater of Worlds is dominant, add a suffix modifier->If The Eater of Worlds is dominant, add a suffix modifier-(Если преобладает Пожиратель миров, добавляет свойство-суффикс)
+
+Eldritch Orb of Annulment->Eldritch Orb of Annulment-(Мистическая сфера отмены)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+If The Searing Exarch is dominant, remove a prefix modifier->If The Searing Exarch is dominant, remove a prefix modifier-(Если преобладает Пламенный экзарх, удаляет свойство-префикс)
+If The Eater of Worlds is dominant, remove a suffix modifier->If The Eater of Worlds is dominant, remove a suffix modifier-(Если преобладает Пожиратель миров, удаляет свойство-суффикс)
+
+Singular Scouting Report->Singular Scouting Report-(Необычный доклад разведки)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Reroll all of Kirac's Atlas Missions, including at least one Unique map->Reroll all of Kirac's Atlas Missions, including at least one Unique map-(Обновляет все предлагаемые Кираком задания Атласа. Новые задания включают как минимум одну уникальную карту)
+
+Otherworldly Scouting Report->Otherworldly Scouting Report-(Потусторонний доклад разведки)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Reroll all of Kirac's Atlas Missions, including at least one Breachstone->Reroll all of Kirac's Atlas Missions, including at least one Breachstone-(Обновляет все предлагаемые Кираком задания Атласа. Новые задания включают как минимум один камень Разлома)
+
+Comprehensive Scouting Report->Comprehensive Scouting Report-(Подробный доклад разведки)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Reroll all of Kirac's Atlas Missions, adding additional mission options->Reroll all of Kirac's Atlas Missions, adding additional mission options-(Обновляет все предлагаемые Кираком задания Атласа, добавляя дополнительные варианты заданий)
+
+Vaal Scouting Report->Vaal Scouting Report-(Осквернённый доклад разведки)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Reroll all of Kirac's Atlas Missions, corrupting all non-Unique Maps->Reroll all of Kirac's Atlas Missions, corrupting all non-Unique Maps-(Обновляет все предлагаемые Кираком задания Атласа, оскверняя все неуникальные карты)
+
+Delirious Scouting Report->Delirious Scouting Report-(Бредовый доклад разведки)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Reroll all of Kirac's Atlas Missions, adding layers of Delirium to all non-Unique Maps->Reroll all of Kirac's Atlas Missions, adding layers of Delirium to all non-Unique Maps-(Обновляет все предлагаемые Кираком задания Атласа, добавляя слои Делириума на все неуникальные карты)
+
+Operative's Scouting Report->Operative's Scouting Report-(Оперативный доклад разведки)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Reroll all of Kirac's Atlas Missions, granting missions with rewarding implicit modifiers->Reroll all of Kirac's Atlas Missions, granting missions with rewarding implicit modifiers-(Обновляет все предлагаемые Кираком задания Атласа, даруя задания с ценными собственными свойствами)
+
+Blighted Scouting Report->Blighted Scouting Report-(Заражённый доклад разведки)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Reroll all of Kirac's Atlas Missions, including at least one Blighted Map->Reroll all of Kirac's Atlas Missions, including at least one Blighted Map-(Обновляет все предлагаемые Кираком задания Атласа. Новые задания включают как минимум одну заражённую карту)
+
+Influenced Scouting Report->Influenced Scouting Report-(Влиятельный доклад разведки)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Reroll all of Kirac's Atlas Missions, including at least one Shaper Guardian, Elder Guardian, or Elderslayer Map->Reroll all of Kirac's Atlas Missions, including at least one Shaper Guardian, Elder Guardian, or Elderslayer Map-(Обновляет все предлагаемые Кираком задания Атласа. Новые задания включают как минимум одну карту хранителя Создателя, хранителя Древнего или Убийцы Древнего)
+
+Explorer's Scouting Report->Explorer's Scouting Report-(Исследовательский доклад разведки)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Reroll all of Kirac's Atlas Missions, using uncompleted non-Unique Maps where possible->Reroll all of Kirac's Atlas Missions, using uncompleted non-Unique Maps where possible-(Обновляет все предлагаемые Кираком задания Атласа, по возможности заменяя их не завершёнными неуникальными картами)
+
+Oil Extractor->Oil Extractor-(Экстрактор масел)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Destroys an Anointed Item to recover one of the Oils that was used to apply that Anointment->Destroys an Anointed Item to recover one of the Oils that was used to apply that Anointment-(Уничтожает обработанный маслами предмет, извлекая одно из масел, использованных для его обработки)
+
+Power Core->Power Core-(Энергоядро)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Destroys two Sentinels to create a fully-charged Sentinel with a combination of their properties. Sometimes, the resultant item is modified unpredictably->Destroys two Sentinels to create a fully-charged Sentinel with a combination of their properties. Sometimes, the resultant item is modified unpredictably-(Уничтожает двух Часовых и создаёт полностью заряженного Часового с комбинацией свойств уничтоженных. Иногда результат изменяется непредсказуемым образом.)
+
+Transforming Power Core->Transforming Power Core-(Преобразующее энергоядро)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Destroys two Sentinels to create a fully-charged Sentinel with a combination of their properties. Sometimes, the resultant item is modified unpredictably, with a higher chance of a special base type->Destroys two Sentinels to create a fully-charged Sentinel with a combination of their properties. Sometimes, the resultant item is modified unpredictably, with a higher chance of a special base type-(Уничтожает двух Часовых и создаёт полностью заряженного Часового с комбинацией свойств уничтоженных. Иногда результат изменяется непредсказуемым образом, с увеличенным шансом создания особого базового типа.)
+
+Amplifying Power Core->Amplifying Power Core-(Усиливающее энергоядро)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Destroys two Sentinels to create a fully-charged Sentinel with a combination of their properties. Sometimes, the resultant item is modified unpredictably, with a higher chance of a upgrading the tier of modifiers->Destroys two Sentinels to create a fully-charged Sentinel with a combination of their properties. Sometimes, the resultant item is modified unpredictably, with a higher chance of a upgrading the tier of modifiers-(Уничтожает двух Часовых и создаёт полностью заряженного Часового с комбинацией свойств уничтоженных. Иногда результат изменяется непредсказуемым образом, с увеличенным шансом повышения уровня свойств.)
+
+Augmenting Power Core->Augmenting Power Core-(Дополняющее энергоядро)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Destroys two Sentinels to create a fully-charged Sentinel with a combination of their properties. Sometimes, the resultant item is modified unpredictably, with a higher chance of new random modifiers->Destroys two Sentinels to create a fully-charged Sentinel with a combination of their properties. Sometimes, the resultant item is modified unpredictably, with a higher chance of new random modifiers-(Уничтожает двух Часовых и создаёт полностью заряженного Часового с комбинацией свойств уничтоженных. Иногда результат изменяется непредсказуемым образом, с увеличенным шансом добавления новых случайных свойств.)
+
+Armour Recombinator->Armour Recombinator-(Рекомбинатор бронника)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Destroys two Armours to create a new Armour with a combination of their properties. Sometimes, the resultant item is modified unpredictably->Destroys two Armours to create a new Armour with a combination of their properties. Sometimes, the resultant item is modified unpredictably-(Уничтожает двое доспехов и создаёт одни новые с комбинацией свойств уничтоженных. Иногда результат изменяется непредсказуемым образом.)
+
+Weapon Recombinator->Weapon Recombinator-(Рекомбинатор оружейника)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Destroys two Weapons or Quivers to create a new Weapon or Quiver with a combination of their properties. Sometimes, the resultant item is modified unpredictably->Destroys two Weapons or Quivers to create a new Weapon or Quiver with a combination of their properties. Sometimes, the resultant item is modified unpredictably-(Уничтожает два оружия и создаёт одно новое с комбинацией свойств уничтоженных. Иногда результат изменяется непредсказуемым образом.)
+
+Jewellery Recombinator->Jewellery Recombinator-(Рекомбинатор ювелира)
+Stack Size: 1 / 20->Stack Size: 1 / 20-(Размер стопки: 1 / 20)
+Destroys two Jewellery items to create a new Jewellery item with a combination of their properties. Sometimes, the resultant item is modified unpredictably->Destroys two Jewellery items to create a new Jewellery item with a combination of their properties. Sometimes, the resultant item is modified unpredictably-(Уничтожает два предмета бижутерии и создаёт один новый с комбинацией свойств уничтоженных. Иногда результат изменяется непредсказуемым образом.)
+
+Wild Crystallised Lifeforce->Wild Crystallised Lifeforce-(Дикая кристализованная жизненная сила)
+Stack Size: 1 / 50000->Stack Size: 1 / 50000-(Размер стопки: 1 / 50000)
+
+Vivid Crystallised Lifeforce->Vivid Crystallised Lifeforce-(Буйная кристализованная жизненная сила)
+Stack Size: 1 / 50000->Stack Size: 1 / 50000-(Размер стопки: 1 / 50000)
+
+Primal Crystallised Lifeforce->Primal Crystallised Lifeforce-(Первобытная кристализованная жизненная сила)
+Stack Size: 1 / 50000->Stack Size: 1 / 50000-(Размер стопки: 1 / 50000)
+
+Sacred Crystallised Lifeforce->Sacred Crystallised Lifeforce-(Священная кристализованная жизненная сила)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+
+Lycia's Invocation of Minion Instability->Lycia's Invocation of Minion Instability-(Воззвание Люции о Нестабильности приспешников)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Minion Instability to a Sanctified Relic->Adds Minion Instability to a Sanctified Relic-(Добавляет умение Нестабильность приспешников на священную реликвию)
+
+Lycia's Invocation of Resolute Technique->Lycia's Invocation of Resolute Technique-(Воззвание Люции о Точных ударах)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Resolute Technique to a Sanctified Relic->Adds Resolute Technique to a Sanctified Relic-(Добавляет умение Точные удары на священную реликвию)
+
+Lycia's Invocation of Blood Magic->Lycia's Invocation of Blood Magic-(Воззвание Люции о Магии крови)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Blood Magic to a Sanctified Relic->Adds Blood Magic to a Sanctified Relic-(Добавляет умение Магия крови на священную реликвию)
+
+Lycia's Invocation of Pain Attunement->Lycia's Invocation of Pain Attunement-(Воззвание Люции о Вдохновении болью)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Pain Attunement to a Sanctified Relic->Adds Pain Attunement to a Sanctified Relic-(Добавляет умение Вдохновение болью на священную реликвию)
+
+Lycia's Invocation of Elemental Equilibrium->Lycia's Invocation of Elemental Equilibrium-(Воззвание Люции о Равновесии стихий)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Elemental Equilibrium to a Sanctified Relic->Adds Elemental Equilibrium to a Sanctified Relic-(Добавляет умение Равновесие стихий на священную реликвию)
+
+Lycia's Invocation of Iron Grip->Lycia's Invocation of Iron Grip-(Воззвание Люции о Железной хватке)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Iron Grip to a Sanctified Relic->Adds Iron Grip to a Sanctified Relic-(Добавляет умение Железная хватка на священную реликвию)
+
+Lycia's Invocation of Point Blank->Lycia's Invocation of Point Blank-(Воззвание Люции о Стрельбе в упор)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Point Blank to a Sanctified Relic->Adds Point Blank to a Sanctified Relic-(Добавляет умение Стрельба в упор на священную реликвию)
+
+Lycia's Invocation of Acrobatics->Lycia's Invocation of Acrobatics-(Воззвание Люции об Акробатике)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Acrobatics to a Sanctified Relic->Adds Acrobatics to a Sanctified Relic-(Добавляет умение Акробатика на священную реликвию)
+
+Lycia's Invocation of Ghost Reaver->Lycia's Invocation of Ghost Reaver-(Воззвание Люции о Похитителе душ)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Ghost Reaver to a Sanctified Relic->Adds Ghost Reaver to a Sanctified Relic-(Добавляет умение Похититель душ на священную реликвию)
+
+Lycia's Invocation of Vaal Pact->Lycia's Invocation of Vaal Pact-(Воззвание Люции о Соглашении с ваал)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Vaal Pact to a Sanctified Relic->Adds Vaal Pact to a Sanctified Relic-(Добавляет умение Соглашение с ваал на священную реликвию)
+
+Lycia's Invocation of Elemental Overload->Lycia's Invocation of Elemental Overload-(Воззвание Люции о Стихийной перегрузке)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Elemental Overload to a Sanctified Relic->Adds Elemental Overload to a Sanctified Relic-(Добавляет умение Стихийная перегрузка на священную реликвию)
+
+Lycia's Invocation of Avatar of Fire->Lycia's Invocation of Avatar of Fire-(Воззвание Люции о Воплощении огня)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Avatar of Fire to a Sanctified Relic->Adds Avatar of Fire to a Sanctified Relic-(Добавляет умение Воплощение огня на священную реликвию)
+
+Lycia's Invocation of Eldritch Battery->Lycia's Invocation of Eldritch Battery-(Воззвание Люции о Мистическом накопителе)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Eldritch Battery to a Sanctified Relic->Adds Eldritch Battery to a Sanctified Relic-(Добавляет умение Мистический накопитель на священную реликвию)
+
+Lycia's Invocation of Ancestral Bond->Lycia's Invocation of Ancestral Bond-(Воззвание Люции о Связи с предками)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Ancestral Bond to a Sanctified Relic->Adds Ancestral Bond to a Sanctified Relic-(Добавляет умение Связь с предками на священную реликвию)
+
+Lycia's Invocation of Crimson Dance->Lycia's Invocation of Crimson Dance-(Воззвание Люции о Багровом танце)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Crimson Dance to a Sanctified Relic->Adds Crimson Dance to a Sanctified Relic-(Добавляет умение Багровый танец на священную реликвию)
+
+Lycia's Invocation of Perfect Agony->Lycia's Invocation of Perfect Agony-(Воззвание Люции о Совершенной агонии)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Perfect Agony to a Sanctified Relic->Adds Perfect Agony to a Sanctified Relic-(Добавляет умение Совершенная агония на священную реликвию)
+
+Lycia's Invocation of Runebinder->Lycia's Invocation of Runebinder-(Воззвание Люции о Рунической вязи)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Runebinder to a Sanctified Relic->Adds Runebinder to a Sanctified Relic-(Добавляет умение Руническая вязь на священную реликвию)
+
+Lycia's Invocation of Glancing Blows->Lycia's Invocation of Glancing Blows-(Воззвание Люции о Скользящих ударах)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Glancing Blows to a Sanctified Relic->Adds Glancing Blows to a Sanctified Relic-(Добавляет умение Скользящие удары на священную реликвию)
+
+Lycia's Invocation of Call to Arms->Lycia's Invocation of Call to Arms-(Воззвание Люции о Призыве к оружию)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Call To Arms to a Sanctified Relic->Adds Call To Arms to a Sanctified Relic-(Добавляет умение Призыв к оружию на священную реликвию)
+
+Lycia's Invocation of the Agnostic->Lycia's Invocation of the Agnostic-(Воззвание Люции об Агностике)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds the Agnostic to a Sanctified Relic->Adds the Agnostic to a Sanctified Relic-(Добавляет умение Агностик на священную реликвию)
+
+Lycia's Invocation of Supreme Ego->Lycia's Invocation of Supreme Ego-(Воззвание Люции о Величайшем эго)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Supreme Ego to a Sanctified Relic->Adds Supreme Ego to a Sanctified Relic-(Добавляет умение Величайшее эго на священную реликвию)
+
+Lycia's Invocation of the Impaler->Lycia's Invocation of the Impaler-(Воззвание Люции о Пронзателе)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds The Impaler to a Sanctified Relic->Adds The Impaler to a Sanctified Relic-(Добавляет умение Пронзатель на священную реликвию)
+
+Lycia's Invocation of Hex Master->Lycia's Invocation of Hex Master-(Воззвание Люции о Чародее)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Hex Master to a Sanctified Relic->Adds Hex Master to a Sanctified Relic-(Добавляет умение Чародей на священную реликвию)
+
+Lycia's Invocation of Lethe Shade->Lycia's Invocation of Lethe Shade-(Воззвание Люции о Тени смерти)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Lethe Shade to a Sanctified Relic->Adds Lethe Shade to a Sanctified Relic-(Добавляет умение Тень смерти на священную реликвию)
+
+Lycia's Invocation of Ghost Dance->Lycia's Invocation of Ghost Dance-(Воззвание Люции о Призрачном танце)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Ghost Dance to a Sanctified Relic->Adds Ghost Dance to a Sanctified Relic-(Добавляет умение Призрачный танец на священную реликвию)
+
+Lycia's Invocation of Versatile Combatant->Lycia's Invocation of Versatile Combatant-(Воззвание Люции об Универсальном бойце)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Versatile Combatant to a Sanctified Relic->Adds Versatile Combatant to a Sanctified Relic-(Добавляет умение Универсальный боец на священную реликвию)
+
+Lycia's Invocation of Magebane->Lycia's Invocation of Magebane-(Воззвание Люции о Погибели магов)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Magebane to a Sanctified Relic->Adds Magebane to a Sanctified Relic-(Добавляет умение Погибель магов на священную реликвию)
+
+Lycia's Invocation of Solipsism->Lycia's Invocation of Solipsism-(Воззвание Люции о Солипсизме)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Solipsism to a Sanctified Relic->Adds Solipsism to a Sanctified Relic-(Добавляет умение Солипсизм на священную реликвию)
+
+Lycia's Invocation of Divine Shield->Lycia's Invocation of Divine Shield-(Воззвание Люции о Божественном щите)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Divine Shield to a Sanctified Relic->Adds Divine Shield to a Sanctified Relic-(Добавляет умение Божественный щит на священную реликвию)
+
+Lycia's Invocation of Iron Will->Lycia's Invocation of Iron Will-(Воззвание Люции о Железной воле)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Iron Will to a Sanctified Relic->Adds Iron Will to a Sanctified Relic-(Добавляет умение Железная воля на священную реликвию)
+
+Lycia's Invocation of Wicked Ward->Lycia's Invocation of Wicked Ward-(Воззвание Люции о Нечестивом страже)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Wicked Ward to a Sanctified Relic->Adds Wicked Ward to a Sanctified Relic-(Добавляет умение Нечестивый страж на священную реликвию)
+
+Lycia's Invocation of Wind Dancer->Lycia's Invocation of Wind Dancer-(Воззвание Люции о Танцующем с ветром)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Wind Dancer to a Sanctified Relic->Adds Wind Dancer to a Sanctified Relic-(Добавляет умение Танцующий с ветром на священную реликвию)
+
+Lycia's Invocation of Conduit->Lycia's Invocation of Conduit-(Воззвание Люции о Проводнике)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Conduit to a Sanctified Relic->Adds Conduit to a Sanctified Relic-(Добавляет умение Проводник на священную реликвию)
+
+Lycia's Invocation of Arrow Dancing->Lycia's Invocation of Arrow Dancing-(Воззвание Люции о Танце со стрелами)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Arrow Dancing to a Sanctified Relic->Adds Arrow Dancing to a Sanctified Relic-(Добавляет умение Танец со стрелами на священную реликвию)
+
+Lycia's Invocation of Precise Technique->Lycia's Invocation of Precise Technique-(Воззвание Люции о Безупречном приёме)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Precise Technique to a Sanctified Relic->Adds Precise Technique to a Sanctified Relic-(Добавляет умение Безупречный приём на священную реликвию)
+
+Lycia's Invocation of Iron Reflexes->Lycia's Invocation of Iron Reflexes-(Воззвание Люции о Стальных нервах)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Iron Reflexes to a Sanctified Relic->Adds Iron Reflexes to a Sanctified Relic-(Добавляет умение Стальные нервы на священную реликвию)
+
+Lycia's Invocation of Unwavering Stance->Lycia's Invocation of Unwavering Stance-(Воззвание Люции о Несокрушимости)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Unwavering Stance to a Sanctified Relic->Adds Unwavering Stance to a Sanctified Relic-(Добавляет умение Несокрушимость на священную реликвию)
+
+Lycia's Invocation of Imbalanced Guard->Lycia's Invocation of Imbalanced Guard-(Воззвание Люции о Несбалансированной защите)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Imbalanced Guard to a Sanctified Relic->Adds Imbalanced Guard to a Sanctified Relic-(Добавляет умение Несбалансированная защита на священную реликвию)
+
+Lycia's Invocation of Eternal Youth->Lycia's Invocation of Eternal Youth-(Воззвание Люции о Вечной молодости)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Eternal Youth to a Sanctified Relic->Adds Eternal Youth to a Sanctified Relic-(Добавляет умение Вечная молодость на священную реликвию)
+
+Lycia's Invocation of Mind over Matter->Lycia's Invocation of Mind over Matter-(Воззвание Люции о Разуме превыше материи)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Mind over Matter to a Sanctified Relic->Adds Mind over Matter to a Sanctified Relic-(Добавляет умение Разум превыше материи на священную реликвию)
+
+Lycia's Invocation of Zealot's Oath->Lycia's Invocation of Zealot's Oath-(Воззвание Люции об Обете фанатика)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Adds Zealot's Oath to a Sanctified Relic->Adds Zealot's Oath to a Sanctified Relic-(Добавляет умение Обет фанатика на священную реликвию)
+
+Gold->Gold-(Золото)
+Stack Size: 1 / 5000->Stack Size: 1 / 5000-(Размер стопки: 1 / 5000)
+Can be spent at Vendors->Can be spent at Vendors-(Можно потратить у торговцев)
+
+Igneous Geode->Igneous Geode-(Огненная жеода)
+
+Crystalline Geode->Crystalline Geode-(Кристаллическая жеода)
+
+Silver Coin->Silver Coin-(Серебряная монета)
+Stack Size: 1 / 30->Stack Size: 1 / 30-(Размер стопки: 1 / 30)
+Creates a portal to the Halls of the Dead from a Town or Hideout->Creates a portal to the Halls of the Dead from a Town or Hideout-(Открывает портал в Залы мёртвых из города или убежища)
+Used as Currency in the Halls of the Dead to participate in the Trial of the Ancestors->Used as Currency in the Halls of the Dead to participate in the Trial of the Ancestors-(Служит валютой в Залах мёртвых для участия в Испытании Предков)
+
+Hinekora's Lock->Hinekora's Lock-(Прядь Хинекоры)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Allows an item to foresee the result of the next Currency item used on it->Allows an item to foresee the result of the next Currency item used on it-(Позволяет предвидеть результат следующего использования валюты на предмете)
+Modifying the item in any way removes the ability to foresee->Modifying the item in any way removes the ability to foresee-(Любое изменение предмета убирает возможность предвидения)
+
+Omen of Amelioration->Omen of Amelioration-(Предсказание избавления)
+Will be Consumed when you Die->Will be Consumed when you Die-(Расходуется при смерти)
+to prevent 75% of Experience loss->to prevent 75% of Experience loss-(Предотвращает потерю 75% опыта)
+
+Omen of Return->Omen of Return-(Предсказание возвращения)
+Will be Consumed when you Die->Will be Consumed when you Die-(Расходуется при смерти)
+to create a Portal to Town->to create a Portal to Town-(Создаёт портал в город)
+
+Omen of Death-dancing->Omen of Death-dancing-(Предсказание танца со смертью)
+Will be Consumed when you reach 25% of Life->Will be Consumed when you reach 25% of Life-(Расходуется при достижении 25% здоровья)
+to grant 75% chance to Avoid Damage from Hits for 4 seconds->to grant 75% chance to Avoid Damage from Hits for 4 seconds-(Дарует 75% шанс избежать урона от ударов в течение 4 секунд)
+
+Omen of Refreshment->Omen of Refreshment-(Предсказание восполнения)
+Will be Consumed when you reach 25% of Life->Will be Consumed when you reach 25% of Life-(Расходуется при достижении 25% здоровья)
+to Refill all Flasks->to Refill all Flasks-(Восстанавливает все заряды флакона)
+
+Omen of the Soul Devourer->Omen of the Soul Devourer-(Предсказание Пожирателя душ)
+Will be Consumed when you level up->Will be Consumed when you level up-(Расходуется при повышении уровня)
+to grant Soul Eater for 5 minutes->to grant Soul Eater for 5 minutes-(Дарует Пожиратель душ на 5 минут)
+
+Omen of Acceleration->Omen of Acceleration-(Предсказание ускорения)
+Will be Consumed when you level up->Will be Consumed when you level up-(Расходуется при повышении уровня)
+to create an Acceleration Shrine->to create an Acceleration Shrine-(Создаёт алтарь скорости)
+
+Omen of Fortune->Omen of Fortune-(Предсказание удачи)
+Will be Consumed when you use an Orb of Chance->Will be Consumed when you use an Orb of Chance-(Расходуется при использовании сферы удачи на предмете,)
+on an item which can become Unique to ensure it does so->on an item which can become Unique to ensure it does so-(способном стать уникальным, и делает его таковым)
+
+Omen of the Jeweller->Omen of the Jeweller-(Предсказание златокузнеца)
+Will be Consumed when you use a Jeweller's Orb->Will be Consumed when you use a Jeweller's Orb-(Расходуется при использовании сферы златокузнеца на предмете)
+on an item to ensure maximum Sockets->on an item to ensure maximum Sockets-(Добавляет предмету максимум гнёзд)
+
+Omen of Connections->Omen of Connections-(Предсказание связей)
+Will be Consumed when you use an Orb of Fusing->Will be Consumed when you use an Orb of Fusing-(Расходуется при использовании сферы соединения на предмете)
+on an item to ensure maximum Links->on an item to ensure maximum Links-(Добавляет предмету максимум связей)
+
+Omen of Blanching->Omen of Blanching-(Предсказание обеления)
+Will be Consumed when you use a Chromatic Orb->Will be Consumed when you use a Chromatic Orb-(Расходуется при использовании цветной сферы на предмете)
+on an item to make 1-3 Sockets become White->on an item to make 1-3 Sockets become White-(Добавляет предмету 1-3 белых гнёзда)
+
+Omen of Revenge->Omen of Revenge-(Предсказание мести)
+Will be Consumed when you Die->Will be Consumed when you Die-(Расходуется при смерти)
+to make each nearby enemy permanently take 25% more Damage->to make each nearby enemy permanently take 25% more Damage-(Все враги поблизости навсегда получают на 25% больше урона)
+
+Omen of Bequeathal->Omen of Bequeathal-(Предсказание наследства)
+Will be Consumed when you Die->Will be Consumed when you Die-(Расходуется при смерти)
+to add 300% of lost Experience to Gems->to add 300% of lost Experience to Gems-(Добавляет 300% потерянного опыта камням)
+
+Omen of Resurgence->Omen of Resurgence-(Предсказание возрождения)
+Will be Consumed when you reach 25% of Life->Will be Consumed when you reach 25% of Life-(Расходуется при достижении 25% здоровья)
+to cause 100% of Damage taken to be Recouped as Life for 4 seconds->to cause 100% of Damage taken to be Recouped as Life for 4 seconds-(Восполняет 100% получаемого урона в виде здоровья в течение 4 секунд)
+
+Omen of Adrenaline->Omen of Adrenaline-(Предсказание адреналина)
+Will be Consumed when you reach 25% of Life->Will be Consumed when you reach 25% of Life-(Расходуется при достижении 25% здоровья)
+to grant Adrenaline for 10 seconds->to grant Adrenaline for 10 seconds-(Дарует Адреналин на 10 секунд)
+
+Omen of Death's Door->Omen of Death's Door-(Предсказание Врат Смерти)
+Will be Consumed when you reach 25% of Life->Will be Consumed when you reach 25% of Life-(Расходуется при достижении 25% здоровья)
+to grant Shade Form for 3 seconds->to grant Shade Form for 3 seconds-(Дарует Форму тени на 3 секунды)
+
+Omen of Brilliance->Omen of Brilliance-(Предсказание великолепия)
+Will be Consumed when you level up->Will be Consumed when you level up-(Расходуется при повышении уровня)
+to grant 100% increased Experience gained for 60 seconds->to grant 100% increased Experience gained for 60 seconds-(Дарует 100% увеличение получаемого опыта на 60 секунд)
+
+Tattoo of the Ngamahu Firewalker->Tattoo of the Ngamahu Firewalker-(Татуировка Огненного ходока Нгамаху)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
++6% to Fire Resistance->+6% to Fire Resistance-(+6% к сопротивлению огню)
+
+Tattoo of the Ngamahu Shaman->Tattoo of the Ngamahu Shaman-(Татуировка Шамана Нгамаху)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
+10% reduced Ignite Duration on you->10% reduced Ignite Duration on you-(10% уменьшение длительности поджога на вас)
+
+Tattoo of the Ngamahu Warrior->Tattoo of the Ngamahu Warrior-(Татуировка Воина Нгамаху)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
+5% increased Fire Damage->5% increased Fire Damage-(5% увеличение урона от огня)
+
+Tattoo of the Ngamahu Warmonger->Tattoo of the Ngamahu Warmonger-(Татуировка Зачинщика войны Нгамаху)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
+5% chance to Ignite->5% chance to Ignite-(5% шанс поджечь)
+
+Tattoo of the Ngamahu Woodcarver->Tattoo of the Ngamahu Woodcarver-(Татуировка Резчика по дереву Нгамаху)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
+5% increased Totem Life->5% increased Totem Life-(5% увеличение здоровья тотема)
+
+Loyalty Tattoo of Kaom->Loyalty Tattoo of Kaom-(Татуировка верности Каому)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
+Limited to: 1 Loyalty Tattoo->Limited to: 1 Loyalty Tattoo-(Максимум: 1 татуировка верности)
+Trigger Summon Spirit of Kaom Skill when a Totem dies while->Trigger Summon Spirit of Kaom Skill when a Totem dies while-(Вызывает срабатывание Призыва духа Каома, когда тотем)
+a Unique Enemy is in your Presence->a Unique Enemy is in your Presence-(умирает, пока в вашем присутствии находится уникальный враг)
+has trigger on totem death in presence of unique [1]->has trigger on totem death in presence of unique [1]-(has trigger on totem death in presence of unique [1])
+
+Tattoo of the Ngamahu Makanga->Tattoo of the Ngamahu Makanga-(Татуировка Маканги Нгамаху)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
+Requires maximum 1 adjacent Passive Skills Allocated->Requires maximum 1 adjacent Passive Skills Allocated-(Требуется максимум 1 выбранных соседних пассивных умения-(-й))
++1% to maximum Fire Resistance->+1% to maximum Fire Resistance-(+1% к максимальному сопротивлению огню)
+
+Tattoo of the Kitava Blood Drinker->Tattoo of the Kitava Blood Drinker-(Татуировка Кровопийцы Китавы)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
+0.5% of Attack Damage Leeched as Life->0.5% of Attack Damage Leeched as Life-(0.5% урона от атак похищается в виде здоровья)
+
+Tattoo of the Kitava Rebel->Tattoo of the Kitava Rebel-(Татуировка Смутьяна Китавы)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
+10% chance to Avoid Bleeding->10% chance to Avoid Bleeding-(10% шанс избежать кровотечения)
+
+Tattoo of the Kitava Warrior->Tattoo of the Kitava Warrior-(Татуировка Воина Китавы)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
+5% increased Physical Damage->5% increased Physical Damage-(5% увеличение физического урона)
+
+Tattoo of the Kitava Heart Eater->Tattoo of the Kitava Heart Eater-(Татуировка Пожирателя сердец Китавы)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Intelligence Passive Skill->Replaces a Small Intelligence Passive Skill-(Заменяет малое пассивное умение интеллекта)
+Killing Blows have 4% chance to Consume corpses to recover 10% of Maximum Life->Killing Blows have 4% chance to Consume corpses to recover 10% of Maximum Life-(Смертельные удары с 4% шансом могут поглотить трупы, восстановив 10% от максимума здоровья)
+
+Tattoo of the Kitava Shaman->Tattoo of the Kitava Shaman-(Татуировка Шамана Китавы)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
+Attacks have 5% chance to cause Bleeding->Attacks have 5% chance to cause Bleeding-(Атаки имеют 5% шанс вызвать кровотечение)
+
+Loyalty Tattoo of Utula->Loyalty Tattoo of Utula-(Татуировка верности Утуле)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
+Limited to: 1 Loyalty Tattoo->Limited to: 1 Loyalty Tattoo-(Максимум: 1 татуировка верности)
+Trigger Summon Spirit of Utula Skill on taking a Savage Hit from a Unique Enemy->Trigger Summon Spirit of Utula Skill on taking a Savage Hit from a Unique Enemy-(Вызывает срабатывание Призыва духа Утулы при получении жестокого удара от уникального врага)
+has trigger on taking savage hit from unique [1]->has trigger on taking savage hit from unique [1]-(has trigger on taking savage hit from unique [1])
+
+Tattoo of the Kitava Makanga->Tattoo of the Kitava Makanga-(Татуировка Маканги Китавы)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
+Requires 7 adjacent Passive Skills Allocated->Requires 7 adjacent Passive Skills Allocated-(Требуется 7 выбранных соседних пассивных умения-(-й))
+80% increased Maximum total Life Recovery per second from Leech->80% increased Maximum total Life Recovery per second from Leech-(80% увеличение максимального итогового восстановления здоровья в секунду от похищения)
+
+Tattoo of the Tukohama Shaman->Tattoo of the Tukohama Shaman-(Татуировка Шамана Тукохамы)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
+Regenerate 0.3% of Life per second->Regenerate 0.3% of Life per second-(Регенерация 0.3% здоровья в секунду)
+
+Tattoo of the Tukohama Warrior->Tattoo of the Tukohama Warrior-(Татуировка Воина Тукохамы)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
+Melee Hits which Stun have 5% chance to Fortify->Melee Hits which Stun have 5% chance to Fortify-(Оглушающие удары в ближнем бою с 5% шансом могут наложить Укрепление)
+
+Tattoo of the Tukohama Brawler->Tattoo of the Tukohama Brawler-(Татуировка Поединщика Тукохамы)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
+10% chance to Knock Enemies Back on hit->10% chance to Knock Enemies Back on hit-(10% шанс отбросить врагов при нанесении удара)
+
+Tattoo of the Tukohama Warmonger->Tattoo of the Tukohama Warmonger-(Татуировка Зачинщика войны Тукохамы)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
+5% increased Melee Damage->5% increased Melee Damage-(5% увеличение урона в ближнем бою)
+
+Tattoo of the Tukohama Warcaller->Tattoo of the Tukohama Warcaller-(Татуировка Глашатая войны Тукохамы)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
+8% increased Warcry Cooldown Recovery Rate->8% increased Warcry Cooldown Recovery Rate-(8% повышение скорости перезарядки боевых кличей)
+
+Loyalty Tattoo of Akoya->Loyalty Tattoo of Akoya-(Татуировка верности Акойе)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
+Limited to: 1 Loyalty Tattoo->Limited to: 1 Loyalty Tattoo-(Максимум: 1 татуировка верности)
+Trigger Summon Spirit of Akoya Skill when you reach Maximum Rage while->Trigger Summon Spirit of Akoya Skill when you reach Maximum Rage while-(Вызывает срабатывание Призыва духа Акойи, когда вы накапливаете максимум)
+a Unique Enemy is in your Presence->a Unique Enemy is in your Presence-(свирепости, пока в вашем присутствии находится уникальный враг)
+has trigger on reaching maximum rage in presence of unique [1]->has trigger on reaching maximum rage in presence of unique [1]-(has trigger on reaching maximum rage in presence of unique [1])
+
+Tattoo of the Tukohama Makanga->Tattoo of the Tukohama Makanga-(Татуировка Маканги Тукохамы)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
+Requires 7 adjacent Passive Skills Allocated->Requires 7 adjacent Passive Skills Allocated-(Требуется 7 выбранных соседних пассивных умения-(-й))
+16% increased Life Regeneration rate->16% increased Life Regeneration rate-(16% повышение скорости регенерации здоровья)
+
+Tattoo of the Rongokurai Warrior->Tattoo of the Rongokurai Warrior-(Татуировка Воина Ронгокураи)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
+6% increased Armour->6% increased Armour-(6% повышение брони)
+
+Tattoo of the Rongokurai Brute->Tattoo of the Rongokurai Brute-(Татуировка Громилы Ронгокураи)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
+10% increased Stun Threshold->10% increased Stun Threshold-(10% повышение порога оглушения)
+
+Tattoo of the Rongokurai Goliath->Tattoo of the Rongokurai Goliath-(Татуировка Голиафа Ронгокураи)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
+10% increased Stun Duration on Enemies->10% increased Stun Duration on Enemies-(10% увеличение длительности оглушения на врагах)
+
+Tattoo of the Rongokurai Turtle->Tattoo of the Rongokurai Turtle-(Татуировка Черепахи Ронгокураи)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Intelligence Passive Skill->Replaces a Small Intelligence Passive Skill-(Заменяет малое пассивное умение интеллекта)
+You take 5% reduced Extra Damage from Critical Strikes->You take 5% reduced Extra Damage from Critical Strikes-(Вы получаете сниженный на 5% дополнительный урон от критических ударов)
+
+Tattoo of the Rongokurai Guard->Tattoo of the Rongokurai Guard-(Татуировка Стражника Ронгокураи)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
+Guard Skills have 6% increased Duration->Guard Skills have 6% increased Duration-(Умения обороны имеют 6% увеличение длительности эффекта умения)
+
+Loyalty Tattoo of Kahuturoa->Loyalty Tattoo of Kahuturoa-(Татуировка верности Кахутуруа)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
+Limited to: 1 Loyalty Tattoo->Limited to: 1 Loyalty Tattoo-(Максимум: 1 татуировка верности)
+Trigger Summon Spirit of Kahuturoa Skill when you take->Trigger Summon Spirit of Kahuturoa Skill when you take-(Вызывает срабатывание Призыва духа Кахутуруа, когда вы)
+a Critical Strike from a Unique Enemy->a Critical Strike from a Unique Enemy-(получаете критический удар от уникального врага)
+has trigger on crit by unique enemy [1]->has trigger on crit by unique enemy [1]-(has trigger on crit by unique enemy [1])
+
+Tattoo of the Rongokurai Makanga->Tattoo of the Rongokurai Makanga-(Татуировка Маканги Ронгокураи)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
+Requires maximum 1 adjacent Passive Skills Allocated->Requires maximum 1 adjacent Passive Skills Allocated-(Требуется максимум 1 выбранных соседних пассивных умения-(-й))
+8% chance to Defend with 200% of Armour->8% chance to Defend with 200% of Armour-(8% шанс на защиту с удвоенной броней)
+
+Tattoo of the Tasalio Bladedancer->Tattoo of the Tasalio Bladedancer-(Татуировка Танцующего с клинками Тасалио)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
+Attacks have 5% chance to Maim on Hit->Attacks have 5% chance to Maim on Hit-(Атаки имеют 5% шанс изувечить при нанесении удара)
+
+Tattoo of the Tasalio Tideshifter->Tattoo of the Tasalio Tideshifter-(Татуировка Волнореза Тасалио)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Dexterity Passive Skill->Replaces a Small Dexterity Passive Skill-(Заменяет малое пассивное умение ловкости)
+10% chance to Avoid being Stunned->10% chance to Avoid being Stunned-(10% шанс избежать оглушения)
+
+Tattoo of the Tasalio Shaman->Tattoo of the Tasalio Shaman-(Татуировка Шамана Тасалио)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Intelligence Passive Skill->Replaces a Small Intelligence Passive Skill-(Заменяет малое пассивное умение интеллекта)
+5% chance to Hinder Enemies on Hit with Spells->5% chance to Hinder Enemies on Hit with Spells-(5% шанс сковать врагов при нанесении удара чарами)
+
+Tattoo of the Tasalio Warrior->Tattoo of the Tasalio Warrior-(Татуировка Воина Тасалио)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Dexterity Passive Skill->Replaces a Small Dexterity Passive Skill-(Заменяет малое пассивное умение ловкости)
+5% chance to Blind Enemies on Hit with Attacks->5% chance to Blind Enemies on Hit with Attacks-(5% шанс ослепить врагов при нанесении удара атаками)
+
+Tattoo of the Tasalio Scout->Tattoo of the Tasalio Scout-(Татуировка Разведчика Тасалио)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Dexterity Passive Skill->Replaces a Small Dexterity Passive Skill-(Заменяет малое пассивное умение ловкости)
+4% increased Effect of your Marks->4% increased Effect of your Marks-(4% усиление эффекта ваших меток)
+
+Loyalty Tattoo of Rakiata->Loyalty Tattoo of Rakiata-(Татуировка верности Ракиате)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Dexterity Passive Skill->Replaces a Small Dexterity Passive Skill-(Заменяет малое пассивное умение ловкости)
+Limited to: 1 Loyalty Tattoo->Limited to: 1 Loyalty Tattoo-(Максимум: 1 татуировка верности)
+Trigger Summon Spirit of Rakiata Skill on Critical Strike against Marked Unique Enemy->Trigger Summon Spirit of Rakiata Skill on Critical Strike against Marked Unique Enemy-(Вызывает срабатывание Призыва духа Ракиаты, когда вы наносите критический удар по отмеченному уникальному врагу)
+has trigger on crit vs marked unique [1]->has trigger on crit vs marked unique [1]-(has trigger on crit vs marked unique [1])
+
+Tattoo of the Tasalio Makanga->Tattoo of the Tasalio Makanga-(Татуировка Маканги Тасалио)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Intelligence Passive Skill->Replaces a Small Intelligence Passive Skill-(Заменяет малое пассивное умение интеллекта)
+Requires 7 adjacent Passive Skills Allocated->Requires 7 adjacent Passive Skills Allocated-(Требуется 7 выбранных соседних пассивных умения-(-й))
+8% increased Cooldown Recovery Rate->8% increased Cooldown Recovery Rate-(8% повышение скорости перезарядки умений)
+
+Tattoo of the Arohongui Moonwarden->Tattoo of the Arohongui Moonwarden-(Татуировка Хранителя луны Арохонгуи)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Dexterity Passive Skill->Replaces a Small Dexterity Passive Skill-(Заменяет малое пассивное умение ловкости)
++6% to Cold Resistance->+6% to Cold Resistance-(+6% к сопротивлению холоду)
+
+Tattoo of the Arohongui Scout->Tattoo of the Arohongui Scout-(Татуировка Разведчика Арохонгуи)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Dexterity Passive Skill->Replaces a Small Dexterity Passive Skill-(Заменяет малое пассивное умение ловкости)
+10% chance to Avoid being Chilled->10% chance to Avoid being Chilled-(10% шанс избежать охлаждения)
+10% chance to Avoid being Frozen->10% chance to Avoid being Frozen-(10% шанс избежать заморозки)
+
+Tattoo of the Arohongui Warrior->Tattoo of the Arohongui Warrior-(Татуировка Воина Арохонгуи)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Dexterity Passive Skill->Replaces a Small Dexterity Passive Skill-(Заменяет малое пассивное умение ловкости)
+5% increased Cold Damage->5% increased Cold Damage-(5% увеличение урона от холода)
+
+Tattoo of the Arohongui Warmonger->Tattoo of the Arohongui Warmonger-(Татуировка Зачинщика войны Арохонгуи)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Intelligence Passive Skill->Replaces a Small Intelligence Passive Skill-(Заменяет малое пассивное умение интеллекта)
+5% chance to Freeze->5% chance to Freeze-(5% шанс заморозить)
+
+Tattoo of the Arohongui Shaman->Tattoo of the Arohongui Shaman-(Татуировка Шамана Арохонгуи)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Intelligence Passive Skill->Replaces a Small Intelligence Passive Skill-(Заменяет малое пассивное умение интеллекта)
+5% increased Effect of Herald Buffs on you->5% increased Effect of Herald Buffs on you-(5% усиление положительных эффектов Вестника на вас)
+
+Loyalty Tattoo of Ikiaho->Loyalty Tattoo of Ikiaho-(Татуировка верности Икиао)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Dexterity Passive Skill->Replaces a Small Dexterity Passive Skill-(Заменяет малое пассивное умение ловкости)
+Limited to: 1 Loyalty Tattoo->Limited to: 1 Loyalty Tattoo-(Максимум: 1 татуировка верности)
+Trigger Summon Spirit of Ikiaho Skill when you use a Travel->Trigger Summon Spirit of Ikiaho Skill when you use a Travel-(Вызывает срабатывание Призыва духа Икиао, когда вы используете)
+Skill while a Unique Enemy is in your Presence->Skill while a Unique Enemy is in your Presence-(умение смещения, пока в вашем присутствии находится уникальный враг)
+has trigger on travel skill use in presence of unique [1]->has trigger on travel skill use in presence of unique [1]-(has trigger on travel skill use in presence of unique [1])
+
+Tattoo of the Arohongui Makanga->Tattoo of the Arohongui Makanga-(Татуировка Маканги Арохонгуи)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Dexterity Passive Skill->Replaces a Small Dexterity Passive Skill-(Заменяет малое пассивное умение ловкости)
+Requires maximum 1 adjacent Passive Skills Allocated->Requires maximum 1 adjacent Passive Skills Allocated-(Требуется максимум 1 выбранных соседних пассивных умения-(-й))
++1% to maximum Cold Resistance->+1% to maximum Cold Resistance-(+1% к максимальному сопротивлению холоду)
+
+Tattoo of the Ramako Scout->Tattoo of the Ramako Scout-(Татуировка Разведчика Рамако)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Dexterity Passive Skill->Replaces a Small Dexterity Passive Skill-(Заменяет малое пассивное умение ловкости)
+6% increased Evasion Rating->6% increased Evasion Rating-(6% увеличение уклонения)
+
+Tattoo of the Ramako Archer->Tattoo of the Ramako Archer-(Татуировка Лучника Рамако)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Dexterity Passive Skill->Replaces a Small Dexterity Passive Skill-(Заменяет малое пассивное умение ловкости)
+5% increased Global Accuracy Rating->5% increased Global Accuracy Rating-(5% повышение глобальной меткости)
+
+Tattoo of the Ramako Sniper->Tattoo of the Ramako Sniper-(Татуировка Снайпера Рамако)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Dexterity Passive Skill->Replaces a Small Dexterity Passive Skill-(Заменяет малое пассивное умение ловкости)
+5% increased Projectile Speed->5% increased Projectile Speed-(5% повышение скорости снарядов)
+
+Tattoo of the Ramako Fleetfoot->Tattoo of the Ramako Fleetfoot-(Татуировка Гонца Рамако)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Dexterity Passive Skill->Replaces a Small Dexterity Passive Skill-(Заменяет малое пассивное умение ловкости)
+2% increased Movement Speed->2% increased Movement Speed-(2% повышение скорости передвижения)
+
+Tattoo of the Ramako Shaman->Tattoo of the Ramako Shaman-(Татуировка Шамана Рамако)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Dexterity Passive Skill->Replaces a Small Dexterity Passive Skill-(Заменяет малое пассивное умение ловкости)
++2% chance to Suppress Spell Damage->+2% chance to Suppress Spell Damage-(+2% шанс подавить урон от чар)
+
+Loyalty Tattoo of Ahuana->Loyalty Tattoo of Ahuana-(Татуировка верности Ахване)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Dexterity Passive Skill->Replaces a Small Dexterity Passive Skill-(Заменяет малое пассивное умение ловкости)
+Limited to: 1 Loyalty Tattoo->Limited to: 1 Loyalty Tattoo-(Максимум: 1 татуировка верности)
+Trigger Summon Spirit of Ahuana Skill when you Suppress->Trigger Summon Spirit of Ahuana Skill when you Suppress-(Вызывает срабатывание Призыва духа Ахваны, когда вы)
+Spell Damage from a Unique Enemy->Spell Damage from a Unique Enemy-(подавляете урон от чар от уникального врага)
+has trigger on suppress hit from unique [1]->has trigger on suppress hit from unique [1]-(has trigger on suppress hit from unique [1])
+
+Tattoo of the Ramako Makanga->Tattoo of the Ramako Makanga-(Татуировка Маканги Рамако)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Dexterity Passive Skill->Replaces a Small Dexterity Passive Skill-(Заменяет малое пассивное умение ловкости)
+Requires 7 adjacent Passive Skills Allocated->Requires 7 adjacent Passive Skills Allocated-(Требуется 7 выбранных соседних пассивных умения-(-й))
+Skills fire an additional Projectile->Skills fire an additional Projectile-(Умения выпускают дополнительный снаряд)
+
+Tattoo of the Hinekora Warrior->Tattoo of the Hinekora Warrior-(Татуировка Воина Хинекоры)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Intelligence Passive Skill->Replaces a Small Intelligence Passive Skill-(Заменяет малое пассивное умение интеллекта)
+3% increased maximum Energy Shield->3% increased maximum Energy Shield-(3% увеличение максимума энергетического щита)
+
+Tattoo of the Hinekora Deathwarden->Tattoo of the Hinekora Deathwarden-(Татуировка Стража смерти Хинекоры)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Intelligence Passive Skill->Replaces a Small Intelligence Passive Skill-(Заменяет малое пассивное умение интеллекта)
+6% reduced Effect of Curses on you->6% reduced Effect of Curses on you-(6% ослабление эффектов проклятий на вас)
+
+Tattoo of the Hinekora Shaman->Tattoo of the Hinekora Shaman-(Татуировка Шамана Хинекоры)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Intelligence Passive Skill->Replaces a Small Intelligence Passive Skill-(Заменяет малое пассивное умение интеллекта)
+8% increased Mana Regeneration Rate->8% increased Mana Regeneration Rate-(8% повышение скорости регенерации маны)
+
+Tattoo of the Hinekora Storyteller->Tattoo of the Hinekora Storyteller-(Татуировка Сказителя Хинекоры)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Intelligence Passive Skill->Replaces a Small Intelligence Passive Skill-(Заменяет малое пассивное умение интеллекта)
++3% to Chaos Resistance->+3% to Chaos Resistance-(+3% к сопротивлению хаосу)
+
+Tattoo of the Hinekora Warmonger->Tattoo of the Hinekora Warmonger-(Татуировка Зачинщика войны Хинекоры)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Intelligence Passive Skill->Replaces a Small Intelligence Passive Skill-(Заменяет малое пассивное умение интеллекта)
+Minions have 5% increased maximum Life->Minions have 5% increased maximum Life-(Приспешники имеют 5% увеличение максимума здоровья)
+
+Loyalty Tattoo of Tawhanuku->Loyalty Tattoo of Tawhanuku-(Татуировка верности Тавануку)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Intelligence Passive Skill->Replaces a Small Intelligence Passive Skill-(Заменяет малое пассивное умение интеллекта)
+Limited to: 1 Loyalty Tattoo->Limited to: 1 Loyalty Tattoo-(Максимум: 1 татуировка верности)
+Trigger Summon Spirit of Tawhanuku Skill when Energy Shield Recharge starts while a Unique Enemy is in your Presence->Trigger Summon Spirit of Tawhanuku Skill when Energy Shield Recharge starts while a Unique Enemy is in your Presence-(Вызывает срабатывание Призыва духа Тавануку во время начала перезарядки)
+has trigger on es recharge in presence of unique [1]->has trigger on es recharge in presence of unique [1]-(энергетического щита, пока в вашем присутствии находится уникальный враг)
+
+Tattoo of the Hinekora Makanga->Tattoo of the Hinekora Makanga-(Татуировка Маканги Хинекоры)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Intelligence Passive Skill->Replaces a Small Intelligence Passive Skill-(Заменяет малое пассивное умение интеллекта)
+Requires 7 adjacent Passive Skills Allocated->Requires 7 adjacent Passive Skills Allocated-(Требуется 7 выбранных соседних пассивных умения-(-й))
+8% increased Effect of your Curses->8% increased Effect of your Curses-(8% усиление эффекта ваших проклятий)
+
+Tattoo of the Tawhoa Naturalist->Tattoo of the Tawhoa Naturalist-(Татуировка Натуралиста Тахоа)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Dexterity Passive Skill->Replaces a Small Dexterity Passive Skill-(Заменяет малое пассивное умение ловкости)
+8% increased Life Recovery from Flasks->8% increased Life Recovery from Flasks-(8% увеличение восстановления здоровья от флаконов)
+
+Tattoo of the Tawhoa Scout->Tattoo of the Tawhoa Scout-(Татуировка Разведчика Тахоа)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Dexterity Passive Skill->Replaces a Small Dexterity Passive Skill-(Заменяет малое пассивное умение ловкости)
+10% chance to Avoid being Poisoned->10% chance to Avoid being Poisoned-(10% шанс избежать отравления)
+
+Tattoo of the Tawhoa Warrior->Tattoo of the Tawhoa Warrior-(Татуировка Воина Тахоа)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Intelligence Passive Skill->Replaces a Small Intelligence Passive Skill-(Заменяет малое пассивное умение интеллекта)
+5% increased Chaos Damage->5% increased Chaos Damage-(5% увеличение урона хаосом)
+
+Tattoo of the Tawhoa Herbalist->Tattoo of the Tawhoa Herbalist-(Татуировка Травника Тахоа)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Dexterity Passive Skill->Replaces a Small Dexterity Passive Skill-(Заменяет малое пассивное умение ловкости)
+4% increased Flask Effect Duration->4% increased Flask Effect Duration-(4% увеличение длительности эффекта флакона)
+
+Tattoo of the Tawhoa Shaman->Tattoo of the Tawhoa Shaman-(Татуировка Шамана Тахоа)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Intelligence Passive Skill->Replaces a Small Intelligence Passive Skill-(Заменяет малое пассивное умение интеллекта)
+5% chance to Poison on Hit->5% chance to Poison on Hit-(5% шанс отравить при нанесении удара)
+
+Loyalty Tattoo of Maata->Loyalty Tattoo of Maata-(Татуировка верности Маате)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Intelligence Passive Skill->Replaces a Small Intelligence Passive Skill-(Заменяет малое пассивное умение интеллекта)
+Limited to: 1 Loyalty Tattoo->Limited to: 1 Loyalty Tattoo-(Максимум: 1 татуировка верности)
+Trigger Summon Spirit of Maata Skill when you reach Low Life while->Trigger Summon Spirit of Maata Skill when you reach Low Life while-(Вызывает срабатывание Призыва духа Мааты, когда вы достигаете малого)
+a Unique Enemy is in your Presence->a Unique Enemy is in your Presence-(количества здоровья, пока в вашем присутствии находится уникальный враг)
+has trigger on reaching low life in presence of unique [1]->has trigger on reaching low life in presence of unique [1]-(has trigger on reaching low life in presence of unique [1])
+
+Tattoo of the Tawhoa Makanga->Tattoo of the Tawhoa Makanga-(Татуировка Маканги Тахоа)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Dexterity Passive Skill->Replaces a Small Dexterity Passive Skill-(Заменяет малое пассивное умение ловкости)
+Requires 7 adjacent Passive Skills Allocated->Requires 7 adjacent Passive Skills Allocated-(Требуется 7 выбранных соседних пассивных умения-(-й))
+Flasks applied to you have 8% increased Effect->Flasks applied to you have 8% increased Effect-(8% усиление эффекта примененных на вас флаконов)
+
+Tattoo of the Valako Stormrider->Tattoo of the Valako Stormrider-(Татуировка Наездника бури Валако)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Intelligence Passive Skill->Replaces a Small Intelligence Passive Skill-(Заменяет малое пассивное умение интеллекта)
++6% to Lightning Resistance->+6% to Lightning Resistance-(+6% к сопротивлению молнии)
+
+Tattoo of the Valako Scout->Tattoo of the Valako Scout-(Татуировка Разведчика Валако)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Intelligence Passive Skill->Replaces a Small Intelligence Passive Skill-(Заменяет малое пассивное умение интеллекта)
+10% reduced Effect of Shock on you->10% reduced Effect of Shock on you-(10% ослабление эффекта шока на вас)
+
+Tattoo of the Valako Warrior->Tattoo of the Valako Warrior-(Татуировка Воина Валако)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Intelligence Passive Skill->Replaces a Small Intelligence Passive Skill-(Заменяет малое пассивное умение интеллекта)
+5% increased Lightning Damage->5% increased Lightning Damage-(5% увеличение урона от молнии)
+
+Tattoo of the Valako Shieldbearer->Tattoo of the Valako Shieldbearer-(Татуировка Щитоносца Валако)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Strength Passive Skill->Replaces a Small Strength Passive Skill-(Заменяет малое пассивное умение силы)
++1% Chance to Block Attack Damage->+1% Chance to Block Attack Damage-(+1% шанс блокировать урон от атак)
+
+Tattoo of the Valako Shaman->Tattoo of the Valako Shaman-(Татуировка Шамана Валако)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Intelligence Passive Skill->Replaces a Small Intelligence Passive Skill-(Заменяет малое пассивное умение интеллекта)
+5% chance to Shock->5% chance to Shock-(5% шанс наложить шок)
+
+Loyalty Tattoo of Kiloava->Loyalty Tattoo of Kiloava-(Татуировка верности Килоаве)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Intelligence Passive Skill->Replaces a Small Intelligence Passive Skill-(Заменяет малое пассивное умение интеллекта)
+Limited to: 1 Loyalty Tattoo->Limited to: 1 Loyalty Tattoo-(Максимум: 1 татуировка верности)
+Trigger Summon Spirit of Kiloava Skill when you Block Damage from a Unique Enemy->Trigger Summon Spirit of Kiloava Skill when you Block Damage from a Unique Enemy-(Вызывает срабатывание Призыва духа Килоавы, когда вы блокируете удар от уникального врага)
+has trigger on block hit from unique [1]->has trigger on block hit from unique [1]-(has trigger on block hit from unique [1])
+
+Tattoo of the Valako Makanga->Tattoo of the Valako Makanga-(Татуировка Маканги Валако)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Intelligence Passive Skill->Replaces a Small Intelligence Passive Skill-(Заменяет малое пассивное умение интеллекта)
+Requires maximum 1 adjacent Passive Skills Allocated->Requires maximum 1 adjacent Passive Skills Allocated-(Требуется максимум 1 выбранных соседних пассивных умения-(-й))
++1% to maximum Lightning Resistance->+1% to maximum Lightning Resistance-(+1% к максимальному сопротивлению молнии)
+
+Honoured Tattoo of the Dove->Honoured Tattoo of the Dove-(Почётная татуировка голубя)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Attribute Passive Skill->Replaces a Small Attribute Passive Skill-(Заменяет малое пассивное умение характеристик)
++4% to Chaos Resistance->+4% to Chaos Resistance-(+4% к сопротивлению хаосу)
+
+Honoured Tattoo of the Sky->Honoured Tattoo of the Sky-(Почётная татуировка неба)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Attribute Passive Skill->Replaces a Small Attribute Passive Skill-(Заменяет малое пассивное умение характеристик)
++3% to all Elemental Resistances->+3% to all Elemental Resistances-(+3% к сопротивлению всем стихиям)
+
+Honoured Tattoo of the Tuatara->Honoured Tattoo of the Tuatara-(Почётная татуировка туатары)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Attribute Passive Skill->Replaces a Small Attribute Passive Skill-(Заменяет малое пассивное умение характеристик)
++4 to all Attributes->+4 to all Attributes-(+4 ко всем характеристикам)
+
+Honoured Tattoo of the Pillager->Honoured Tattoo of the Pillager-(Почётная татуировка грабителя)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Attribute Passive Skill->Replaces a Small Attribute Passive Skill-(Заменяет малое пассивное умение характеристик)
+3% increased Rarity of Items found->3% increased Rarity of Items found-(3% повышение редкости найденных предметов)
+
+Honoured Tattoo of the Turtle->Honoured Tattoo of the Turtle-(Почётная татуировка черепахи)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Attribute Passive Skill->Replaces a Small Attribute Passive Skill-(Заменяет малое пассивное умение характеристик)
+3% increased Global Defences->3% increased Global Defences-(3% повышение глобальной защиты)
+
+Honoured Tattoo of the Oak->Honoured Tattoo of the Oak-(Почётная татуировка дуба)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Attribute Passive Skill->Replaces a Small Attribute Passive Skill-(Заменяет малое пассивное умение характеристик)
+2% increased maximum Life->2% increased maximum Life-(2% увеличение максимума здоровья)
+
+Honoured Tattoo of the Hatungo->Honoured Tattoo of the Hatungo-(Почётная татуировка хатанго)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Attribute Passive Skill->Replaces a Small Attribute Passive Skill-(Заменяет малое пассивное умение характеристик)
+1% increased Reservation Efficiency of Skills->1% increased Reservation Efficiency of Skills-(1% увеличение эффективности удержания ресурсов умениями)
+
+Honoured Tattoo of the Flock->Honoured Tattoo of the Flock-(Почётная татуировка стаи)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Attribute Passive Skill->Replaces a Small Attribute Passive Skill-(Заменяет малое пассивное умение характеристик)
+1% increased effect of Non-Curse Auras from your Skills->1% increased effect of Non-Curse Auras from your Skills-(1% усиление эффекта аур не-проклятий от ваших умений)
+
+Honoured Tattoo of the Warlord->Honoured Tattoo of the Warlord-(Почётная татуировка военачальника)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a +30 to Strength Notable Passive Skill->Replaces a +30 to Strength Notable Passive Skill-(Заменяет значимое пассивное умение +30 к силе)
+Limited to: 1 Attribute Notable Tattoo->Limited to: 1 Attribute Notable Tattoo-(Максимум: 1 татуировка значимого умения характеристик)
++1 to Level of all Strength Skill Gems->+1 to Level of all Strength Skill Gems-(+1 к уровню всех камней умений силы)
+
+Honoured Tattoo of the Mountain->Honoured Tattoo of the Mountain-(Почётная татуировка горы)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a +30 to Strength Notable Passive Skill->Replaces a +30 to Strength Notable Passive Skill-(Заменяет значимое пассивное умение +30 к силе)
+Limited to: 1 Attribute Notable Tattoo->Limited to: 1 Attribute Notable Tattoo-(Максимум: 1 татуировка значимого умения характеристик)
++1% to maximum Fire Resistance->+1% to maximum Fire Resistance-(+1% к максимальному сопротивлению огню)
++1 to Maximum Endurance Charges->+1 to Maximum Endurance Charges-(+1 к максимуму зарядов выносливости)
+
+Honoured Tattoo of the Pa->Honoured Tattoo of the Pa-(Почётная татуировка Па)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a +30 to Strength Notable Passive Skill->Replaces a +30 to Strength Notable Passive Skill-(Заменяет значимое пассивное умение +30 к силе)
+Limited to: 1 Attribute Notable Tattoo->Limited to: 1 Attribute Notable Tattoo-(Максимум: 1 татуировка значимого умения характеристик)
+Melee Hits Fortify->Melee Hits Fortify-(Удары в ближнем бою накладывают Укрепление)
+
+Honoured Tattoo of the Hunter->Honoured Tattoo of the Hunter-(Почётная татуировка охотника)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a +30 to Dexterity Notable Passive Skill->Replaces a +30 to Dexterity Notable Passive Skill-(Заменяет значимое пассивное умение +30 к ловкости)
+Limited to: 1 Attribute Notable Tattoo->Limited to: 1 Attribute Notable Tattoo-(Максимум: 1 татуировка значимого умения характеристик)
++1 to Level of all Dexterity Skill Gems->+1 to Level of all Dexterity Skill Gems-(+1 к уровню всех камней умений ловкости)
+
+Honoured Tattoo of the Barbarian->Honoured Tattoo of the Barbarian-(Почётная татуировка варвара)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a +30 to Dexterity Notable Passive Skill->Replaces a +30 to Dexterity Notable Passive Skill-(Заменяет значимое пассивное умение +30 к ловкости)
+Limited to: 1 Attribute Notable Tattoo->Limited to: 1 Attribute Notable Tattoo-(Максимум: 1 татуировка значимого умения характеристик)
++1% to maximum Cold Resistance->+1% to maximum Cold Resistance-(+1% к максимальному сопротивлению холоду)
++1 to Maximum Frenzy Charges->+1 to Maximum Frenzy Charges-(+1 к максимуму зарядов ярости)
+
+Honoured Tattoo of the Berserker->Honoured Tattoo of the Berserker-(Почётная татуировка берсерка)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a +30 to Dexterity Notable Passive Skill->Replaces a +30 to Dexterity Notable Passive Skill-(Заменяет значимое пассивное умение +30 к ловкости)
+Limited to: 1 Attribute Notable Tattoo->Limited to: 1 Attribute Notable Tattoo-(Максимум: 1 татуировка значимого умения характеристик)
+You gain Onslaught for 4 seconds on Hit->You gain Onslaught for 4 seconds on Hit-(Вы получаете Боевой раж на 4 секунд-(-ы) при нанесении удара)
+
+Honoured Tattoo of the Wise->Honoured Tattoo of the Wise-(Почётная татуировка мудреца)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a +30 to Intelligence Notable Passive Skill->Replaces a +30 to Intelligence Notable Passive Skill-(Заменяет значимое пассивное умение +30 к интеллекту)
+Limited to: 1 Attribute Notable Tattoo->Limited to: 1 Attribute Notable Tattoo-(Максимум: 1 татуировка значимого умения характеристик)
++1 to Level of all Intelligence Skill Gems->+1 to Level of all Intelligence Skill Gems-(+1 к уровню всех камней умений интеллекта)
+
+Honoured Tattoo of the Storm->Honoured Tattoo of the Storm-(Почётная татуировка бури)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a +30 to Intelligence Notable Passive Skill->Replaces a +30 to Intelligence Notable Passive Skill-(Заменяет значимое пассивное умение +30 к интеллекту)
+Limited to: 1 Attribute Notable Tattoo->Limited to: 1 Attribute Notable Tattoo-(Максимум: 1 татуировка значимого умения характеристик)
++1% to maximum Lightning Resistance->+1% to maximum Lightning Resistance-(+1% к максимальному сопротивлению молнии)
++1 to Maximum Power Charges->+1 to Maximum Power Charges-(+1 к максимуму зарядов энергии)
+
+Honoured Tattoo of the Flood->Honoured Tattoo of the Flood-(Почётная татуировка потопа)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a +30 to Intelligence Notable Passive Skill->Replaces a +30 to Intelligence Notable Passive Skill-(Заменяет значимое пассивное умение +30 к интеллекту)
+Limited to: 1 Attribute Notable Tattoo->Limited to: 1 Attribute Notable Tattoo-(Максимум: 1 татуировка значимого умения характеристик)
+Gain Arcane Surge on Hit with Spells->Gain Arcane Surge on Hit with Spells-(Дарует Колдовской выброс при нанесении удара чарами)
+
+Ancestral Tattoo of Bloodlines->Ancestral Tattoo of Bloodlines-(Татуировка кровных уз предков)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Attribute Passive Skill->Replaces a Small Attribute Passive Skill-(Заменяет малое пассивное умение характеристик)
+Limited to: 1 Ancestral Tattoo->Limited to: 1 Ancestral Tattoo-(Максимум: 1 татуировка предков)
+2% increased Recovery Rate of Life, Mana and Energy Shield->2% increased Recovery Rate of Life, Mana and Energy Shield-(2% повышение скорости восстановления здоровья, маны и энергетического щита)
+per Tribe for which you have an allocated Tattoo->per Tribe for which you have an allocated Tattoo-(за каждое племя, чью татуировку вы выбрали)
+
+Honoured Tattoo of the Makanga->Honoured Tattoo of the Makanga-(Почётная татуировка маканги)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Small Attribute Passive Skill->Replaces a Small Attribute Passive Skill-(Заменяет малое пассивное умение характеристик)
+Requires 8 adjacent Passive Skills Allocated->Requires 8 adjacent Passive Skills Allocated-(Требуется 8 выбранных соседних пассивных умения-(-й))
++2% to all maximum Resistances->+2% to all maximum Resistances-(+2% к максимуму всех сопротивлений)
+
+Journey Tattoo of the Body->Journey Tattoo of the Body-(Татуировка странствия тела)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a +30 to Strength Notable Passive Skill->Replaces a +30 to Strength Notable Passive Skill-(Заменяет значимое пассивное умение +30 к силе)
++25 to maximum Life per Allocated Journey Tattoo of the Body->+25 to maximum Life per Allocated Journey Tattoo of the Body-(+25 к максимуму здоровья за каждую выбранную Татуировку странствия тела)
+
+Journey Tattoo of the Mind->Journey Tattoo of the Mind-(Татуировка странствия разума)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a +30 to Dexterity Notable Passive Skill->Replaces a +30 to Dexterity Notable Passive Skill-(Заменяет значимое пассивное умение +30 к ловкости)
++30 to maximum Mana per Allocated Journey Tattoo of the Mind->+30 to maximum Mana per Allocated Journey Tattoo of the Mind-(+30 к максимуму маны за каждую выбранную Татуировку странствия разума)
+
+Journey Tattoo of the Soul->Journey Tattoo of the Soul-(Татуировка странствия души)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a +30 to Intelligence Notable Passive Skill->Replaces a +30 to Intelligence Notable Passive Skill-(Заменяет значимое пассивное умение +30 к интеллекту)
++40 to maximum Energy Shield per Allocated Journey Tattoo of the Soul->+40 to maximum Energy Shield per Allocated Journey Tattoo of the Soul-(+40 к максимуму энергетического щита за каждую выбранную Татуировку странствия души)
+
+Journey Tattoo of Makanui->Journey Tattoo of Makanui-(Татуировка странствия Макануи)
+Stack Size: 1 / 10->Stack Size: 1 / 10-(Размер стопки: 1 / 10)
+Replaces a Keystone Passive Skill->Replaces a Keystone Passive Skill-(Заменяет малое пассивное умение ключевое)
+Limited to: 1 Keystone Tattoo->Limited to: 1 Keystone Tattoo-(Максимум: 1 ключевая татуировка)
+Grants a random Keystone->Grants a random Keystone-(Дарует случайное ключевое умение)
+
+Vivid Wisps->Vivid Wisps-(Буйные огоньки)
+Stack Size: 1 / 50000->Stack Size: 1 / 50000-(Размер стопки: 1 / 50000)
+
+Wild Wisps->Wild Wisps-(Дикие огоньки)
+Stack Size: 1 / 50000->Stack Size: 1 / 50000-(Размер стопки: 1 / 50000)
+
+Primal Wisps->Primal Wisps-(Первобытные огоньки)
+Stack Size: 1 / 50000->Stack Size: 1 / 50000-(Размер стопки: 1 / 50000)
+
+
+
+
 
 //////////////////////////////// Скарабеи //////////////////////////////////
 Scarabs->Скарабеи
