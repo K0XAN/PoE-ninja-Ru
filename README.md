@@ -28,11 +28,17 @@
 ## Пример работы
 
 Оригинал
-![3](https://github.com/user-attachments/assets/0cb481d7-f490-4853-a935-6229f17140fc)
+![5](https://github.com/user-attachments/assets/680f4d7d-aa23-4520-9cc7-ae26be19f014)
+
 Английский и (Русский)
-![4](https://github.com/user-attachments/assets/a1d54471-9a51-488f-8e27-b325e0d61643)
+![3](https://github.com/user-attachments/assets/3a2b1dcf-4913-4df8-9a68-77343cbccb09)
+
+
+
 Русский
-![5](https://github.com/user-attachments/assets/ba89c622-a893-4d5c-bfd9-a1da06ad6e30)
+
+![4](https://github.com/user-attachments/assets/162d9705-a185-4a75-b122-b2d9651415c1)
+
 
   
 ---
