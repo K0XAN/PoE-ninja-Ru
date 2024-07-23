@@ -18,20 +18,27 @@ async function loadReplacements(fileName) {
         return replacements;
     } catch (error) {
         console.error('Ошибка при загрузке файла:', error);
-        throw error;  // Повторно выбрасываем ошибку
+        throw error;
     }
 }
-
-
 
 function replaceTextInNode(node, replacements) {
     if (node.nodeType === Node.TEXT_NODE) {
         let originalText = node.nodeValue;
         let newText = originalText;
 
+        // Проверка на наличие знаков ( или )
+        if (originalText.includes('(') || originalText.includes(')')) {
+            return;
+        }
+
         for (const [key, value] of Object.entries(replacements)) {
-            const regex = new RegExp(`\\b${key}\\b`, 'g');
-            newText = newText.replace(regex, value);
+            const regex = new RegExp(`^${key}$`, 'g');
+
+            // Заменяем только если новое значение ещё не присутствует
+            if (regex.test(newText) && !newText.includes(value)) {
+                newText = newText.replace(regex, value);
+            }
         }
 
         if (newText !== originalText) {
@@ -66,13 +73,11 @@ function monitorShowMore(replacements) {
     observer.observe(document.body, { childList: true, subtree: true });
 }
 
-// Загрузка выбранного файла из chrome.storage
 async function getSelectedFile() {
     const { selectedFile } = await chrome.storage.sync.get('selectedFile');
-    return selectedFile || 'replacements.txt'; // значение по умолчанию
+    return selectedFile || 'replacements.txt';
 }
 
-// Вызов функции замены с выбранным файлом
 async function initiateTextReplacement() {
     const selectedFile = await getSelectedFile();
     await replaceText(selectedFile);
