@@ -1,3 +1,797 @@
+
+//////////////////////////////// Скарабеи //////////////////////////////////
+Scarabs->Скарабеи
+Abyss Scarab->Скарабей Бездны
+Abyss Scarab of Edifice->Скарабей Бездны строений
+Abyss Scarab of Emptiness->Скарабей Бездны пустоты
+Abyss Scarab of Multitudes->Скарабей Бездны множеств
+Abyss Scarab of Profound Depth->Скарабей Засады
+Ambush Scarab->Скарабей Засады содержания
+Ambush Scarab of Containment->Скарабей Засады разборчивости
+Ambush Scarab of Discernment->Скарабей Засады потайных отсеков
+Ambush Scarab of Hidden Compartments->Скарабей Засады могущества
+Ambush Scarab of Potency->Скарабей Анархии
+Anarchy Scarab->Скарабей Анархии исполинства
+Anarchy Scarab of Gigantification->Скарабей Анархии партнёрства
+Anarchy Scarab of Partnership->Скарабей Бестиария
+Bestiary Scarab->Скарабей Бестиария удвоения
+Bestiary Scarab of Duplicating->Скарабей Бестиария стаи
+Bestiary Scarab of the Herd->Скарабей Бестиария тёмной вороны
+Bestiary Scarab of the Shadowed Crow->Скарабей Предательства
+Betrayal Scarab->Скарабей Предательства разведки
+Betrayal Scarab of Intelligence->Скарабей Предательства увековечения
+Betrayal Scarab of Perpetuation->Скарабей Предательства подкреплений
+Betrayal Scarab of Reinforcements->Скарабей Иномирья
+Beyond Scarab->Скарабей Иномирья осквернения
+Beyond Scarab of Corruption->Скарабей Иномирья кровопотери
+Beyond Scarab of Haemophilia->Скарабей Иномирья возрождения
+Beyond Scarab of Resurgence->Скарабей Иномирья вторжения
+Beyond Scarab of the Invasion->Скарабей Скверны
+Blight Scarab->Скарабей Скверны цветения
+Blight Scarab of Blooming->Скарабей Скверны щедрости
+Blight Scarab of Bounty->Скарабей Скверны масел
+Blight Scarab of Invigoration->Скарабей Разлома
+Blight Scarab of Oils->Скарабей Разлома владений
+Breach Scarab->Скарабей Разлома ловушек
+Breach Scarab of Lordship->Скарабей Разлома расщепления
+Breach Scarab of Resonant Cascade->Скарабей Разлома мечтателя
+Breach Scarab of Snares->Скарабей картографии
+Breach Scarab of Splintering->Скарабей картографии восхождения
+Breach Scarab of the Dreamer->Скарабей картографии осквернения
+Cartography Scarab->Скарабей картографии удвоения
+Cartography Scarab of Ascension->Скарабей картографии неповторимости
+Cartography Scarab of Corruption->Скарабей Делириума
+Cartography Scarab of Duplication->Скарабей Делириума галлюцинаций
+Cartography Scarab of Singularity->Скарабей Делириума мании
+Delirium Scarab->Скарабей Делириума неврозов
+Delirium Scarab of Delusions->Скарабей Делириума паранойи
+Delirium Scarab of Mania->Скарабей предсказания
+Delirium Scarab of Neuroses->Скарабей предсказания завершения
+Delirium Scarab of Paranoia->Скарабей предсказания курирования
+Divination Scarab->Скарабей Господства
+Divination Scarab of Completion->Скарабей Господства аномалии
+Divination Scarab of Curation->Скарабей Господства учений
+Domination Scarab->Скарабей Господства ужасов
+Domination Scarab of Abnormality->Скарабей Сущности
+Domination Scarab of Teachings->Скарабей Сущности восхождения
+Domination Scarab of Terrors->Скарабей Сущности окостенения
+Essence Scarab->Скарабей Сущности стабильности
+Essence Scarab of Adaptation->Скарабей Экспедиции
+Essence Scarab of Ascent->Скарабей Экспедиции археологии
+Essence Scarab of Calcification->Скарабей Экспедиции поиска рун
+Essence Scarab of Stability->Скарабей Экспедиции скальда
+Expedition Scarab->Скарабей Экспедиции веризиевой пыли
+Expedition Scarab of Archaeology->Скарабей Предвестника
+Expedition Scarab of Runefinding->Скарабей Предвестника разборчивости
+Expedition Scarab of the Skald->Скарабей Предвестника регентства
+Expedition Scarab of Verisium Powder->Скарабей Предвестника военных запасов
+Harbinger Scarab->Скарабей Жатвы
+Harbinger Scarab of Discernment->Скарабей Жатвы изобилия
+Harbinger Scarab of Regency->Скарабей Жатвы удвоения
+Harbinger Scarab of Warhoards->Рогатый скарабей пробуждения
+Harvest Scarab->Рогатый скарабей Родословных
+Harvest Scarab of Cornucopia->Рогатый скарабей переливов
+Harvest Scarab of Doubling->Рогатый скарабей Немезиды
+Horned Scarab of Awakening->Рогатый скарабей Пандемониума
+Horned Scarab of Bloodlines->Рогатый скарабей сохранения
+Horned Scarab of Glittering->Рогатый скарабей традиций
+Horned Scarab of Nemeses->Скарабей Вмешательства
+Horned Scarab of Pandemonium->Скарабей Вмешательства чемпионов
+Horned Scarab of Preservation->Скарабей Вмешательства вторжения
+Horned Scarab of Tradition->Скарабей Вмешательства хроник
+Incursion Scarab->Влиятельный скарабей превращения
+Incursion Scarab of Champions->Влиятельный скарабей орд
+Incursion Scarab of Invasion->Влиятельный скарабей Древнего
+Incursion Scarab of Timelines->Влиятельный скарабей Создателя
+Influencing Scarab of Conversion->Скарабей Легиона
+Influencing Scarab of Hordes->Скарабей Легиона командования
+Influencing Scarab of the Elder->Скарабей Легиона вечной войны
+Influencing Scarab of the Shaper->Скарабей Легиона офицеров
+Legion Scarab->Скарабей Легиона Сехемы
+Legion Scarab of Command->Загадочный скарабей
+Legion Scarab of Eternal Conflict->Реликтовый скарабей
+Legion Scarab of Officers->Реликтовый скарабей повелителей
+Legion Scarab of The Sekhema->Реликтовый скарабей видения
+Mysterious Scarab->Ритуальный скарабей изобилия
+Reliquary Scarab->Ритуальный скарабей признания
+Reliquary Scarab of Overlords->Ритуальный скарабей избранности
+Reliquary Scarab of Vision->Скарабей антагонистов
+Ritual Scarab of Abundance->Скарабей затравленных предателей
+Ritual Scarab of Recognition->Скарабей чудовищных поколений
+Ritual Scarab of Selectiveness->Скарабей стабильности
+Scarab of Adversaries->Сульфитовый скарабей
+Scarab of Hunted Traitors->Сульфитовый скарабей испарений
+Scarab of Monstrous Lineage->Сульфитовый скарабей алчности
+Scarab of Radiant Storms->Скарабей Мучения
+Scarab of Stability->Скарабей Мучения своеобразия
+Scarab of Wisps->Скарабей Мучения освобождения
+Sulphite Scarab->Скарабей Ультиматума
+Sulphite Scarab of Fumes->Скарабей Ультиматума подкупа
+Sulphite Scarab of Greed->Скарабей Ультиматума катализа
+Torment Scarab->Скарабей Ультиматума поединка
+Torment Scarab of Peculiarity->Скарабей Ультиматума начертания
+Torment Scarab of Possession->Скрытый скарабей  
+Torment Scarab of Release->Скарабей создания  
+Ultimatum Scarab->Скарабей тени  
+Ultimatum Scarab of Bribing->Скарабей покровительства  
+Ultimatum Scarab of Catalysing->Скарабей зла  
+Ultimatum Scarab of Dueling->Скарабей ярости  
+Ultimatum Scarab of Inscription->Скарабей безумия  
+Veiled Scarab->Скарабей архетипов  
+
+
+
+
+
+//////////////////////////////// Камни умений //////////////////////////////////
+Skill Gems->Камни умений
+Cleave->Рассечение  
+Cleave of Rage->Рассечение свирепости  
+Glacial Hammer->Леденящий молот  
+Glacial Hammer of Shattering->Леденящий молот разбивания  
+Ground Slam->Сотрясение  
+Ground Slam of Earthshaking->Сотрясение земли  
+Heavy Strike->Тяжёлый удар  
+Molten Strike->Магмовый удар  
+Molten Strike of the Zenith->Магмовый удар зенита  
+Perforate->Пронзающие шипы  
+Perforate of Duality->Пронзающие шипы двойственности  
+Perforate of Bloodshed->Пронзающие шипы резни  
+Shield Crush->Сокрушающий щит  
+Shield Crush of the Chieftain->Сокрушающий щит вождя  
+Smite->Кара  
+Smite of Divine Judgement->Кара божественного правосудия  
+Vaal Cleave->Рассечение ваал  
+Vaal Glacial Hammer->Леденящий молот ваал  
+Vaal Ground Slam->Сотрясение ваал  
+Vaal Molten Strike->Магмовый удар ваал  
+Vaal Smite->Кара ваал  
+Blood and Sand->Кровь и песок  
+Decoy Totem->Тотем-приманка  
+Devouring Totem->Поглощающий тотем  
+Holy Flame Totem->Тотем священного огня  
+Holy Flame Totem of Ire->Гневный тотем священного огня  
+Ancestral Protector->Защитник предков  
+Molten Shell->Расплавленный панцирь  
+Reckoning->Возмездие  
+Rejuvenation Totem->Восполняющий тотем  
+Steelskin->Стальная кожа  
+Vaal Molten Shell->Расплавленный панцирь ваал  
+Vaal Rejuvenation Totem->Восполняющий тотем ваал  
+Vigilant Strike->Расчётливый удар  
+War Banner->Знамя войны  
+Enduring Cry->Клич стойкости  
+Intimidating Cry->Устрашающий клич  
+Leap Slam->Наскок  
+Leap Slam of Groundbreaking->Наскок сотрясения  
+Shield Charge->Удар щитом  
+Vitality->Живучесть  
+Absolution->Отпущение  
+Absolution of Inspiring->Отпущение вдохновения  
+Chain Hook->Цепной крюк  
+Earthshatter->Разлом земли  
+Earthshatter of Fragility->Разлом земли хрупкости  
+Earthshatter of Prominence->Разлом земли влияния  
+Exsanguinate->Обескровливание  
+Exsanguinate of Transmission->Заражающее обескровливание  
+Infernal Blow->Удар преисподней  
+Infernal Blow of Immolation->Удар преисподней самосожжения  
+Searing Bond->Обжигающие узы  
+Static Strike->Статичный разряд  
+Sunder->Раскол  
+Sunder of Earthbreaking->Сокрушающий раскол  
+Sweep->Круговой взмах  
+Vaal Absolution->Отпущение ваал  
+Vaal Volcanic Fissure->Вулканический разлом ваал  
+Volcanic Fissure->Вулканический разлом  
+Volcanic Fissure of Snaking->Вулканический разлом зигзагов  
+Ancestral Cry->Клич предков  
+Corrupting Fever->Разлагающая лихорадка  
+Defiance Banner->Знамя непокорности  
+Flesh and Stone->Камень и плоть  
+Herald of Ash->Вестник пепла  
+Herald of Purity->Вестник чистоты  
+Seismic Cry->Сейсмический клич  
+Warlord's Mark->Метка вождя  
+Infernal Cry->Клич преисподней  
+Anger->Жгучая злоба  
+Battlemage's Cry->Клич боевого мага  
+Call to Arms->Призыв к оружию  
+Determination->Решимость  
+Dread Banner->Знамя страха  
+Purity of Fire->Спасение от огня  
+General's Cry->Клич полководца  
+Vulnerability->Беззащитность  
+Petrified Blood->Окаменелая кровь  
+Pride->Гордость  
+Punishment->Наказание  
+Rallying Cry->Клич сплочения  
+Vaal Impurity of Fire->Погибель от огня ваал  
+Vengeance->Отмщение  
+Ancestral Warchief->Вождь предков  
+Animate Guardian->Аниматрон  
+Animate Guardian of Smiting->Аниматрон кары  
+Bladestorm->Ураган лезвий  
+Bladestorm of Uncertainty->Ураган лезвий неопределённости  
+Reap->Кровавая жатва  
+Boneshatter->Дробление костей  
+Boneshatter of Complex Trauma->Дробление костей сложного перелома  
+Boneshatter of Carnage->Дробление костей бойни  
+Consecrated Path->Освящённый путь  
+Consecrated Path of Endurance->Освящённый путь выносливости  
+Dominating Blow->Удар власти  
+Dominating Blow of Inspiring->Удар власти вдохновения  
+Earthquake->Землетрясение  
+Earthquake of Amplification->Землетрясение усиления  
+Ice Crash->Ледяное сокрушение  
+Ice Crash of Cadence->Ритмичное ледяное сокрушение  
+Rage Vortex->Свирепый вихрь  
+Rage Vortex of Berserking->Свирепый вихрь неистовства  
+Shockwave Totem->Сотрясающий тотем  
+Tectonic Slam->Тектонический удар  
+Tectonic Slam of Cataclysm->Тектонический удар катаклизма  
+Vaal Ancestral Warchief->Вождь предков ваал  
+Vaal Domination->Господство ваал  
+Vaal Earthquake->Землетрясение ваал  
+Vaal Reap->Кровавая жатва ваал  
+Berserk->Боевого безумие  
+Flame Link->Пламенная связь  
+Frozen Legion->Замёрзший легион  
+Frozen Legion of Rallying->Замёрзший легион сплочения  
+Immortal Call->Призыв к бессмертию  
+Protective Link->Ограждающая связь  
+Summon Flame Golem->Призыв голема огня  
+Summon Flame Golem of Hordes->Призыв голема огня орды  
+Summon Flame Golem of the Meteor->Призыв голема огня метеора  
+Summon Stone Golem->Призыв каменного голема  
+Summon Stone Golem of Hordes->Призыв каменного голема орды  
+Summon Stone Golem of Safeguarding->Призыв каменного голема охраны  
+Vaal Immortal Call->Призыв к бессмертию ваал  
+Burning Arrow->Горящая стрела  
+Burning Arrow of Vigour->Горящая стрела мощи  
+Cobra Lash->Бросок кобры  
+Double Strike->Двойной удар  
+Double Strike of Impaling->Двойной удар прокола  
+Double Strike of Momentum->Двойной удар импульса  
+Dual Strike->Парный удар  
+Dual Strike of Ambidexterity->Парный удар амбидекстрии  
+Ethereal Knives->Бесплотные ножи  
+Ethereal Knives of Lingering Blades->Бесплотные ножи остаточных клинков  
+Ethereal Knives of the Massacre->Бесплотные ножи резни  
+Frost Blades->Ледяные клинки  
+Frost Blades of Katabasis->Ледяные клинки катабасиса  
+Ice Shot->Ледяной выстрел  
+Ice Shot of Penetration->Ледяной выстрел пронзания  
+Caustic Arrow->Едкая стрела  
+Caustic Arrow of Poison->Едкая стрела яда  
+Galvanic Arrow->Электризующая стрела  
+Galvanic Arrow of Energy->Электризующая стрела энергии  
+Galvanic Arrow of Surging->Бушующая электризующая стрела  
+Explosive Trap->Взрывная ловушка  
+Explosive Trap of Shrapnel->Взрывная ловушка осколков  
+Explosive Trap of Magnitude->Взрывная ловушка интенсивности  
+Split Arrow->Расколотая стрела  
+Split Arrow of Splitting->Расколотая стрела раскалывания  
+Splitting Steel->Раскалывающая сталь  
+Splitting Steel of Ammunition->Раскалывающая сталь боезапаса  
+Spectral Throw->Призрачный бросок  
+Spectral Throw of Materialising->Призрачный бросок воплощения  
+Vaal Burning Arrow->Горящая стрела ваал  
+Vaal Caustic Arrow->Едкая стрела ваал  
+Vaal Double Strike->Двойной удар ваал  
+Vaal Ice Shot->Ледяной выстрел ваал  
+Vaal Spectral Throw->Призрачный бросок ваал  
+Viper Strike->Удар гадюки  
+Viper Strike of the Mamba->Удар гадюки Мамбы  
+Animate Weapon->Живое оружие  
+Animate Weapon of Self Reflection->Живое оружие отражения  
+Animate Weapon of Ranged Arms->Живое оружие дальнего боя  
+Bear Trap->Медвежий капкан  
+Bear Trap of Skewers->Медвежий капкан пронзения  
+Dash->Рывок  
+Detonate Dead->Подрыв трупа  
+Detonate Dead of Scavenging->Подрыв трупа поглощения  
+Detonate Dead of Chain Reaction->Подрыв трупа цепной реакции  
+Sniper's Mark->Метка снайпера  
+Puncture->Надрез  
+Riposte->Парирование  
+Shrapnel Ballista->Осколочная баллиста  
+Shrapnel Ballista of Steel->Стальная осколочная баллиста  
+Vaal Animate Weapon->Живое оружие ваал  
+Vaal Detonate Dead->Подрыв трупа ваал  
+Blink Arrow->Стрела-телепорт  
+Blink Arrow of Bombarding Clones->Стрела-телепорт бомбардирующих клонов  
+Blink Arrow of Prismatic Clones->Стрела-телепорт радужных клонов  
+Unearth->Эксгумация  
+Flicker Strike->Внезапный удар  
+Flicker Strike of Power->Внезапный удар энергии  
+Mirror Arrow->Стрела-двойник  
+Mirror Arrow of Bombarding Clones->Стрела-двойник бомбардирующих клонов  
+Mirror Arrow of Prismatic Clones->Стрела-двойник радужных клонов  
+Precision->Точность  
+Smoke Mine->Дымовая мина  
+Vaal Flicker Strike->Внезапный удар ваал  
+Whirling Blades->Шквал клинков  
+Withering Step->Губительный шаг  
+Barrage->Очередь  
+Barrage of Volley Fire->Очередь залпов  
+Blade Trap->Ловушка лезвий  
+Blade Trap of Greatswords->Ловушка лезвий с большими мечами  
+Blade Trap of Laceration->Ловушка лезвий разрубания  
+Blade Vortex->Вихрь клинков  
+Blade Vortex of the Scythe->Вихрь клинков косы  
+Elemental Hit->Удар стихии  
+Elemental Hit of the Spectrum->Спектральный удар стихии  
+Fire Trap->Огненная ловушка  
+Fire Trap of Blasting->Огненная ловушка взрывов  
+Lacerate->Разрубание  
+Lacerate of Butchering->Разрубание туш  
+Lacerate of Haemorrhage->Разрубание кровоизлияния  
+Lightning Arrow->Стрела молнии  
+Lightning Arrow of Electrocution->Стрела молнии проводимости  
+Lightning Strike->Удар молнии  
+Lightning Strike of Arcing->Удар цепной молнии  
+Poisonous Concoction->Ядовитая смесь  
+Poisonous Concoction of Bouncing->Отскакивающая ядовитая смесь  
+Rain of Arrows->Ливень стрел  
+Rain of Arrows of Artillery->Артиллерийский ливень стрел  
+Rain of Arrows of Saturation->Ливень стрел насыщения  
+Reave->Опустошение  
+Reave of Refraction->Преломляющее опустошение  
+Shattering Steel->Дробящая сталь  
+Shattering Steel of Ammunition->Дробящая сталь боезапаса  
+Siege Ballista->Осадная баллиста  
+Siege Ballista of Splintering->Осадная баллиста осколков  
+Spectral Helix->Призрачная спираль  
+Toxic Rain->Токсичный дождь  
+Toxic Rain of Sporeburst->Токсичный дождь выброса спор  
+Toxic Rain of Withering->Токсичный дождь увядания  
+Vaal Blade Vortex->Вихрь клинков ваал  
+Vaal Lightning Arrow->Стрела молнии ваал  
+Vaal Lightning Strike->Удар молнии ваал  
+Vaal Rain of Arrows->Ливень стрел ваал  
+Vaal Reave->Опустошение ваал  
+Vaal Venom Gyre->Круг яда ваал  
+Venom Gyre->Круг яда  
+Volatile Dead->Нестабильный труп  
+Volatile Dead of Confinement->Заточенный нестабильный труп  
+Volatile Dead of Seething->Бурлящий нестабильный труп  
+Arctic Armour->Северная броня  
+Blade Blast->Взрыв клинков  
+Blade Blast of Unloading->Взрыв клинков разрядки  
+Blade Blast of Dagger Detonation->Взрыв клинков кинжалов  
+Blood Rage->Кровавый угар  
+Desecrate->Осквернение  
+Ensnaring Arrow->Стрела ловчего  
+Frenzy->Бешенство  
+Frenzy of Onslaught->Бешенство боевого ража  
+Herald of Agony->Вестник агонии  
+Herald of Ice->Вестник льда  
+Poacher's Mark->Метка браконьера  
+Vaal Arctic Armour->Северная броня ваал  
+Alchemist's Mark->Метка алхимика  
+Purity of Ice->Спасение от холода  
+Grace->Грация  
+Haste->Спешка  
+Hatred->Холодная ненависть  
+Plague Bearer->Носитель чумы  
+Temporal Chains->Путы времени  
+Vaal Impurity of Ice->Погибель от холода ваал  
+Vaal Grace->Грация ваал  
+Vaal Haste->Спешка ваал  
+Artillery Ballista->Артиллерийская баллиста  
+Artillery Ballista of Cross Strafe->Артиллерийская баллиста перекрестного огня  
+Artillery Ballista of Focus Fire->Артиллерийская баллиста прицельного огня  
+Bladefall->Мечепад  
+Bladefall of Volleys->Мечепад града  
+Bladefall of Impaling->Мечепад пронзания  
+Blast Rain->Дождь взрывов  
+Blade Flurry->Порыв клинков  
+Blade Flurry of Incision->Порыв клинков надреза  
+Charged Dash->Заряженный рывок  
+Cremation->Кремация  
+Cremation of Exhuming->Кремация эксгумации  
+Cremation of the Volcano->Кремация вулкана  
+Cyclone->Вихрь  
+Cyclone of Tumult->Вихрь буйства  
+Explosive Arrow->Взрывная стрела  
+Explosive Concoction->Взрывная смесь  
+Explosive Concoction of Destruction->Взрывная смесь разрушения  
+Flamethrower Trap->Ловушка-огнемёт  
+Ice Trap->Ледяная ловушка  
+Ice Trap of Hollowness->Ледяная ловушка пустоты  
+Lancing Steel->Пронзающая сталь  
+Lancing Steel of Spraying->Пронзающая сталь разброса  
+Pestilent Strike->Моровой удар  
+Seismic Trap->Сейсмическая ловушка  
+Seismic Trap of Swells->Сейсмическая ловушка волн  
+Scourge Arrow->Стрела скверны  
+Scourge Arrow of Menace->Стрела скверны угрозы  
+Storm Rain->Грозовой дождь  
+Storm Rain of the Conduit->Грозовой дождь проводника  
+Storm Rain of the Fence->Заградительный грозовой дождь  
+Spectral Shield Throw->Бросок призрачного щита  
+Spectral Shield Throw of Shattering->Призрачный бросок щита разбивания  
+Tornado Shot->Вихрь стрел  
+Tornado Shot of Cloudburst->Вихрь стрел раскатов  
+Vaal Blade Flurry->Порыв клинков ваал  
+Vaal Cyclone->Вихрь ваал  
+Wild Strike->Шальной удар  
+Wild Strike of Extremes->Шальной удар полярности  
+Ambush->Задача  
+Snipe->Прицельный выстрел  
+Intuitive Link->Подсознательная связь  
+Phase Run->Призрачный бег  
+Summon Ice Golem->Призыв голема льда  
+Summon Ice Golem of Hordes->Призыв голема льда орды  
+Summon Ice Golem of Shattering->Призыв голема льда разбивания  
+Temporal Rift->Временной разрыв  
+Tornado->Торнадо  
+Tornado of Elemental Turbulence->Торнадо стихийной хаотичности  
+Vampiric Link->Иссушающая связь  
+Lightning Tendril->Кровавый дождь  
+Ice Spear->Переплетение  
+Fireball->Пылающий поток  
+Flame Surge->Искажённый удар  
+Wintertide->Ледяной шип  
+Frost Nova->Цепь молний  
+Plasma Geyser->Некротица  
+Chain Lightning->Ураган  
+Shockwave->Лунный свет  
+Blazing Barrage->Ледяное дыхание  
+Emberstorm->Ослепляющий свет  
+Soul Siphon->Сила бурь  
+Blood Orb->Защитный круг  
+Area Overload->Ядовитая пыль  
+Flame Burst->Тёмная завеса  
+Flash Freeze->Пламя боли  
+Arcane Surge->Стрела смерти  
+Firestorm->Жалящий удар  
+Black Hole->Восстановление  
+Spirit Barrier->Очищение  
+Raging Inferno->Песчаный шторм  
+Astral Projection->Обманчивый свет  
+Elemental Armor->Проклятие  
+Shield of Valor->Ветер перемен  
+Icy Veins->Ярость  
+Arcane Fire->Поражение  
+Arcane Shield->Уничтожение  
+Randomizer->Небесное величие  
+Echoing Null->Слепящая тьма  
+Frigid Spikes->Рывок  
+Burning Surge->Ловкость  
+Tidal Wave->Устойчивость  
+Starfall->Печать  
+Radiant Beam->Обсидиановая парча  
+Arcane Blast->Рвущая стена  
+Silencing Wave->Призрачная тень  
+Bouncing Blast->Ледяной кошмар  
+Runic Shield->Ураган огня  
+Fiery Chains->Мыслительная связь  
+Ice Barrier->Тоннель  
+Summoning Ray->Лунная пыль  
+Elemental Shield->Сила света  
+Time Warp->Ограничение  
+Glacial Field->Первая капля  
+Electroshock->Разрушитель  
+Searing Wave->Яркий луч  
+Vacuum Aura->Отражение  
+Beacon of Light->Ледяная преграда  
+Shock Strike->Пламенный след  
+Oppressive Force->Клинок правосудия  
+Helios Beam->Ослепляющий удар  
+Plague Wave->Вечный огонь  
+Demonic Helix->Зов  
+Shadow Bolt->Мыслительная проекция  
+Serpent's Grasp->Искра хаоса  
+Ethereal Chains->Разделение  
+Mystic Flames->Образ бури  
+Hydromancer's Call->Забвение  
+Fiery Gauntlet->Ледяная смерть  
+Warding Shield->Проклятие скверны  
+Arcane Chains->Удар Молнии  
+Shadow Cloak->Зов сокрытой силы  
+Storm Shield->Небесное воробей  
+Torrent->Буря  
+Healing Beam->Стихийный взрыв  
+Ethereal Blades->Глубокое пробуждение  
+Blinding Radiance->Удары земли  
+Infernal Web->Удар мракобесия  
+Celestial Grasp->Призрак света  
+Healing Ward->Прощение  
+Hailstorm->Ледяное пробуждение  
+Flickering Flash->Крик природы  
+Resonance->Темный поток  
+Soul Harvest->Оборона  
+Fractured Light->Небесная тень  
+Moonbeam->Древний взрыв  
+Echo Chamber->Проклятие хаоса  
+Sinister Whispers->Обход  
+Tidal Surge->Призрачный блеск  
+Stone Skin->Пламя  
+Empowering Ring->Ядовитый взрыв  
+Heat Wave->Светлый взгляд  
+Arcane Mirage->Солнечное затмение  
+Liquid Fire->Опустошение  
+Tornado Strike->Волшебный щит  
+Rage Burst->Жрецы света  
+Searing Chains->Печать ярости  
+Warding Aura->Мгла  
+Mystic Shield->Люция  
+Ice Shield->Огненная струя  
+Elemental Explosion->Обездвиживание  
+Stalwart Bulwark->Путешествие  
+Twisting Phantasm->Носитель иллюзий  
+Nightmare Realm->Татарин  
+Ethereal Flame->Снегопад  
+Luminous Wave->Сингулярность  
+Chaos Shield->Истребление  
+Blade Fury->Исцеление  
+Burning Ash->Буря стихий  
+Celestial Flash->Пылающий штык  
+Time Distortion->Наступление  
+Frostbite->Сырое время  
+Ebon Shields->Небо  
+Gale Winds->Гладь  
+Whispering Shadows->Погружение  
+Draining Pulse->Изгнание  
+Mystic Circle->Метаморфозы  
+Ice Fortress->Тьма  
+Cleansing Rain->Песок  
+Frozen Shield->Равнина  
+Whirling Storm->Бурьян  
+Celestial Song->Ярость природы  
+Ensnaring Strike->Свет  
+Ice Blight->Истребить  
+Astral Shield->Уничтожить  
+Fateful Blow->Счастье  
+Volatile Breath->Перемена  
+Fractured Sphere->Нападение  
+Mystic Blast->Прощение  
+Shear Storm->Поразить  
+Vaporous Step->Силы тьмы  
+Shadow Surge->Очистка  
+Arcane Leap->Смятение  
+Pulsing Surge->Тишина  
+Ethereal Burst->Крик волка  
+Storm Scourge->Небесная фурия  
+Frosty Gale->Откровение  
+Pyromancer's Call->Первая воля  
+Radiant Echo->Последствия  
+Blazing Chain->Временами  
+Searing Elixir->Усыновление  
+Soul Fire->Эпопея  
+Ethereal Flight->Ураган могущества  
+Flame Rush->Направление  
+Shadow Dance->Зов  
+Froststorm->Некромантия  
+Arcane Torrent->Тайный путь  
+Steadfast Arrow->Наказание  
+Gale Blade->Взрыв  
+Mystic Rain->Печать стихий  
+Icy Breath->Сумрак  
+Draining Shadow->Нападение тьмы  
+Shadow Miasma->Тёмный свет  
+Ebon Wave->Лунный удар  
+Flame Burst->Ледяной удар  
+Ethereal Cage->Проклятие сокрушения  
+Shadow Prism->Страдание  
+Frost Cloak->Ветры войны  
+Echo Mirage->Священные вершины  
+Glacial Veil->Разгром  
+Stormfront->Торжество  
+Frost Shard->Переплетение  
+Twisting Chain->Песня  
+Mystic Whispers->Признание  
+Celestial Charge->Конец света  
+Inferno Blast->Странствия  
+Searing Flare->Долг  
+Poisoned Blade->Ясность  
+Elemental Fury->Странник  
+Shattering Wave->Удары  
+Shadow Spiral->Оживление  
+Ethereal Scream->Паутина  
+Frigid Grasp->Восхождение  
+Soul Bind->Перемены  
+Night Stalker->Глубь  
+Time Shatter->Призыв  
+Unholy Blade->Стрелы  
+Scorching Ray->Устойчивый  
+Shattered Light->Человек-тень  
+Cyclone Strike->Блуждание  
+Arcane Slumber->Будущее  
+Flame Offense->Наказание  
+Icy Grasp->Укрепление  
+Purifying Light->Череда  
+Geyser->Подсказка  
+Ethereal Glow->Ярость  
+Storm Servant->Погружение  
+Celestial Flare->Тьма  
+Rays of Light->Мглистый  
+Frost Bite->Грех  
+Healing Circle->Панда  
+Mystic Light->Игра  
+Radiant Shield->Светлая  
+Mystic Shard->Исчерпание  
+Ebon Gale->Наступление  
+Arcane Grasp->Укрытие  
+Emberstorm->Исцеление  
+Shadows of Time->Призыв  
+Frigid Chain->Опасность  
+Burning Fury->Непогода  
+Stormcloud->Партнёр  
+Ethereal Wave->Разметка  
+Arcane Rift->Прощение  
+Frozen Vortex->Устойчивый  
+Fiery Geyser->Изменение  
+Shadow Weaver->Поток  
+Solar Flare->Надежда  
+Arcane Blight->Пробуждение  
+Enveloping Darkness->Путь  
+Fractured Glimmer->Вызов  
+Celestial Shield->Подстраховка  
+Shattering Echo->Безмолвие  
+Elusive Strike->Покровительство  
+Frost Lance->Сила  
+Ethereal Burst->Грань  
+Reckless Flames->Устойчивость  
+Gale Strike->Справедливость  
+Shimmering Aura->Откровение  
+Arcane Nova->Телекинез  
+Tornadic Blast->Устойчивость  
+Unyielding Flames->Течение  
+
+
+
+//////////////////////////////// Ископаемые //////////////////////////////////
+Fossils->Ископаемые
+Aberrant Fossil->Искажённое ископаемое
+Aetheric Fossil->Эфирное ископаемое
+Bloodstained Fossil->Окровавленное ископаемое
+Bound Fossil->Связующее ископаемое
+Corroded Fossil->Пористое ископаемое
+Dense Fossil->Плотное ископаемое
+Faceted Fossil->Гранёное ископаемое
+Fractured Fossil->Треснувшее ископаемое
+Frigid Fossil->Ледяное ископаемое
+Gilded Fossil->Позолоченное ископаемое
+Glyphic Fossil->Резное ископаемое
+Hollow Fossil->Пустое ископаемое
+Jagged Fossil->Шероховатое ископаемое
+Lucent Fossil->Светлое ископаемое
+Metallic Fossil->Металлическое ископаемое
+Perfect Fossil->Безупречное ископаемое
+Prismatic Fossil->Радужное ископаемое
+Pristine Fossil->Чистое ископаемое
+Sanctified Fossil->Освящённое ископаемое
+Scorched Fossil->Опалённое ископаемое
+Serrated Fossil->Зубчатое ископаемое
+Shuddering Fossil->Дрожащее ископаемое
+Tangled Fossil->Замысловатое ископаемое
+Deft Fossil->Проворное ископаемое
+Fundamental Fossil->Фундаментальное ископаемое
+
+
+//////////////////////////////// Резонаторы //////////////////////////////////
+Resonators->Резонаторы
+Potent Chaotic Resonator->Активный хаотический резонатор
+Powerful Chaotic Resonator->Мощный хаотический резонатор
+Prime Chaotic Resonator->Превосходный хаотический резонатор
+Primitive Chaotic Resonator->Простейший хаотический резонатор
+
+
+//////////////////////////////// Сущности //////////////////////////////////
+Essences->Сущности
+Deafening Essence of Torment->Оглушающая сущность ненависти
+Deafening Essence of Wrath->Оглушающая сущность печали
+Deafening Essence of Spite->Оглушающая сущность страдания
+Deafening Essence of Rage->Оглушающая сущность ярости
+Deafening Essence of Anger->Оглушающая сущность злобы
+Deafening Essence of Anguish->Оглушающая сущность горя
+Deafening Essence of Hatred->Оглушающая сущность мучения
+Deafening Essence of Sorrow->Оглушающая сущность гнева
+Deafening Essence of Suffering->Оглушающая сущность неприязни
+Deafening Essence of Envy->Оглушающая сущность зависти
+Deafening Essence of Woe->Оглушающая сущность скорби
+Deafening Essence of Greed->Оглушающая сущность жадности
+Deafening Essence of Contempt->Оглушающая сущность презрения
+Deafening Essence of Fear->Оглушающая сущность страха
+Deafening Essence of Doubt->Оглушающая сущность сомнения
+Deafening Essence of Loathing->Оглушающая сущность отвращения
+Deafening Essence of Zeal->Оглушающая сущность усердия
+Deafening Essence of Misery->Оглушающая сущность тоски
+Deafening Essence of Dread->Оглушающая сущность жути
+Deafening Essence of Scorn->Оглушающая сущность насмешки
+Shrieking Essence of Torment->Визжащая сущность ненависти
+Shrieking Essence of Wrath->Визжащая сущность печали
+Shrieking Essence of Spite->Визжащая сущность страдания
+Shrieking Essence of Rage->Визжащая сущность ярости
+Shrieking Essence of Anger->Визжащая сущность злобы
+Shrieking Essence of Anguish->Визжащая сущность горя
+Shrieking Essence of Hatred->Визжащая сущность мучения
+Shrieking Essence of Sorrow->Визжащая сущность гнева
+Shrieking Essence of Suffering->Визжащая сущность неприязни
+Shrieking Essence of Envy->Визжащая сущность зависти
+Shrieking Essence of Woe->Визжащая сущность скорби
+Shrieking Essence of Greed->Визжащая сущность жадности
+Shrieking Essence of Contempt->Визжащая сущность презрения
+Shrieking Essence of Fear->Визжащая сущность страха
+Shrieking Essence of Doubt->Визжащая сущность сомнения
+Shrieking Essence of Loathing->Визжащая сущность отвращения
+Shrieking Essence of Zeal->Визжащая сущность усердия
+Shrieking Essence of Misery->Визжащая сущность тоски
+Shrieking Essence of Dread->Визжащая сущность жути
+Shrieking Essence of Scorn->Визжащая сущность насмешки
+Essence of Delirium->Сущность бреда
+Essence of Hysteria->Сущность истерии
+Essence of Insanity->Сущность безумия
+Essence of Horror->Сущность ужаса
+Screaming Essence of Torment->Кричащая сущность ненависти
+Screaming Essence of Wrath->Кричащая сущность печали
+Screaming Essence of Spite->Кричащая сущность страдания
+Screaming Essence of Rage->Кричащая сущность ярости
+Screaming Essence of Anger->Кричащая сущность злобы
+Screaming Essence of Anguish->Кричащая сущность горя
+Screaming Essence of Hatred->Кричащая сущность мучения
+Screaming Essence of Sorrow->Кричащая сущность гнева
+Screaming Essence of Suffering->Кричащая сущность неприязни
+Screaming Essence of Envy->Кричащая сущность зависти
+Screaming Essence of Woe->Кричащая сущность скорби
+Screaming Essence of Greed->Кричащая сущность жадности
+Screaming Essence of Contempt->Кричащая сущность презрения
+Screaming Essence of Fear->Кричащая сущность страха
+Screaming Essence of Doubt->Кричащая сущность сомнения
+Screaming Essence of Loathing->Кричащая сущность отвращения
+Screaming Essence of Zeal->Кричащая сущность усердия
+Screaming Essence of Misery->Кричащая сущность тоски
+Screaming Essence of Dread->Кричащая сущность жути
+Screaming Essence of Scorn->Кричащая сущность насмешки
+Remnant of Corruption->След Порчи
+Wailing Essence of Torment->Вопящая сущность ненависти
+Wailing Essence of Wrath->Вопящая сущность печали
+Wailing Essence of Spite->Вопящая сущность страдания
+Wailing Essence of Rage->Вопящая сущность ярости
+Wailing Essence of Anger->Вопящая сущность злобы
+Wailing Essence of Anguish->Вопящая сущность горя
+Wailing Essence of Hatred->Вопящая сущность мучения
+Wailing Essence of Sorrow->Вопящая сущность гнева
+Wailing Essence of Suffering->Вопящая сущность неприязни
+Wailing Essence of Woe->Вопящая сущность скорби
+Wailing Essence of Greed->Вопящая сущность жадности
+Wailing Essence of Contempt->Вопящая сущность презрения
+Wailing Essence of Fear->Вопящая сущность страха
+Wailing Essence of Doubt->Вопящая сущность сомнения
+Wailing Essence of Loathing->Вопящая сущность отвращения
+Wailing Essence of Zeal->Вопящая сущность усердия
+Weeping Essence of Torment->Плачущая сущность ненависти
+Weeping Essence of Wrath->Плачущая сущность печали
+Weeping Essence of Rage->Плачущая сущность страдания
+Weeping Essence of Anger->Плачущая сущность ярости
+Weeping Essence of Hatred->Плачущая сущность злобы
+Weeping Essence of Sorrow->Плачущая сущность мучения
+Weeping Essence of Suffering->Плачущая сущность гнева
+Weeping Essence of Woe->Плачущая сущность скорби
+Weeping Essence of Greed->Плачущая сущность жадности
+Weeping Essence of Contempt->Плачущая сущность презрения
+Weeping Essence of Fear->Плачущая сущность страха
+Weeping Essence of Doubt->Плачущая сущность сомнения
+Muttering Essence of Torment->Бормочущая сущность ненависти
+Muttering Essence of Anger->Бормочущая сущность печали
+Muttering Essence of Hatred->Бормочущая сущность злобы
+Muttering Essence of Sorrow->Бормочущая сущность мучения
+Muttering Essence of Woe->Бормочущая сущность скорби
+Muttering Essence of Greed->Бормочущая сущность жадности
+Muttering Essence of Contempt->Бормочущая сущность презрения
+Muttering Essence of Fear->Бормочущая сущность страха
+Whispering Essence of Hatred->Шепчущая сущность ненависти
+Whispering Essence of Woe->Шепчущая сущность скорби
+Whispering Essence of Greed->Шепчущая сущность жадности
+Whispering Essence of Contempt->Шепчущая сущность презрения
+
+
+
+//////////////////////////////// звери //////////////////////////////////
+Beasts->Звери
 Cave Beast->Пещерный зверь
 Enraptured Beast->Завороженный зверь
 Enraptured Beast->Завороженный зверь
@@ -419,3 +1213,17 @@ Craicic Vassal->Слуга Краценна
 Craicic Squid->Кальмар Краценна
 Craicic Watcher->Смотритель Краценна
 The Black Mórrigan->Чернокрылая Морриган
+
+
+Economy->Экономика
+Name->Название
+Value->Стоимость
+Last 7 days->Последние 7 дней
+Listed->Количество
+Tier->Уровень
+Buying price->Цена покупки
+Selling price->Цена продажи
+Buy->Купить
+Sell->Продать
+Not enough data->Недостаточно данных
+Trade->Торговля

@@ -3,21 +3,25 @@
   "name": "PoE ninja Ru",
   "version": "1.0",
   "description": "Автоматически заменяет текст на сайте poe.ninja.",
-  "permissions": ["storage","activeTab"],
+  "permissions": ["storage", "activeTab"],
   "action": {
-        "default_popup": "popup.html",
-        "default_icon": "icon.png"
-    },
-    
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon2.png",
+      "128": "icon2.png"
+    }
+  },
   "content_scripts": [
     {
       "matches": ["https://poe.ninja/economy/*"],
-      "js": ["content.js"]
+      "js": ["content.js"],
+      "run_at": "document_start"
     }
   ],
   "web_accessible_resources": [
     {
-      "resources": ["replacements.txt","replacements_2.txt"],
+      "resources": ["replacements.txt", "replacements_2.txt", "icon2.png"],
       "matches": ["<all_urls>"]
     }
   ]

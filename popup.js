@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const fileSelect = document.getElementById('file-select');
     const saveButton = document.getElementById('save');
+    const githubLinkButton = document.getElementById('github-link');
 
     // Загрузка сохраненного значения
     chrome.storage.sync.get('selectedFile', (data) => {
@@ -14,7 +15,6 @@ document.addEventListener('DOMContentLoaded', () => {
         console.log('Кнопка сохранения нажата');
         const selectedFile = fileSelect.value;
 
-        // Обработка оригинала
         if (selectedFile === "original") {
             console.log('Выбрано: Оригинал, замены не произойдет');
             chrome.storage.sync.set({ selectedFile: 'original' }, () => {
@@ -26,7 +26,6 @@ document.addEventListener('DOMContentLoaded', () => {
         } else if (selectedFile) {
             chrome.storage.sync.set({ selectedFile: selectedFile }, () => {
                 console.log('Сохранено:', selectedFile);
-                // Задержка перед обновлением страницы
                 setTimeout(() => {
                     chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
                         chrome.tabs.reload(tabs[0].id);
@@ -36,5 +35,10 @@ document.addEventListener('DOMContentLoaded', () => {
         } else {
             console.log('Выберите файл перед сохранением');
         }
+    });
+
+    // Переход на GitHub по кнопке
+    githubLinkButton.addEventListener('click', () => {
+        chrome.tabs.create({ url: 'https://github.com/K0XAN/PoE-ninja-Ru' });
     });
 });
