@@ -18,8 +18,9 @@
 - После установки рядом с адресной строкой появится иконка расширения. Нажмите на неё, чтобы открыть интерфейс и начать использование.
 
 ### Как выглядит расширение.
-![1](https://github.com/user-attachments/assets/a0b66e1f-9821-4189-85a8-a54a0e6ca227)
-![2](https://github.com/user-attachments/assets/1f0f1efe-004b-4589-8b82-c6b0d4d252b8)
+![1](https://github.com/user-attachments/assets/7b2b80db-d483-400a-9284-3f24a0423f30)
+
+![2](https://github.com/user-attachments/assets/54507549-7686-4ed7-a296-abe5968f8303)
 
 ## Пример работы
 
